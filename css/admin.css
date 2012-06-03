@@ -1,0 +1,43 @@
+
+body {
+	margin: 0px 20px;
+}
+
+.menu {
+	margin-top: 20px;
+	width: 200px;
+	float: left;
+}
+
+.content {
+	margin: 20px 0px 20px 30px;
+	width: 600px;
+	float: left;
+}
+
+.nano_column {
+	width: 1px;
+}
+
+.right {
+	float: right;
+}
+
+input[type='text'].xlarge {
+	width: 590px;
+}
+
+select.xlarge {
+	width: 600px;
+}
+
+.nano_column input {
+	margin: 0px !important;
+	padding: 0x !important;
+	line-height: 0px;
+}
+
+h2 {
+	margin-bottom: 16px;
+}
+

@@ -1,0 +1,30 @@
+@import url(main.css);
+
+#sub-menu-bar {
+	margin-left: 119px;
+	padding: 17px 14px 17px 14px;
+	width: 600px;
+	height: 90px;
+}
+
+#sub-menu-bar a {
+	padding: 5px 8px;
+	font-size: 10px;
+	text-transform: uppercase;
+	background-color: #8e8c8a;
+	margin-right: 10px;
+	color: black;
+}
+
+#sub-menu-bar a:hover {
+	background-color: #807d7a;
+	text-decoration: none;
+}
+
+.item {
+	height: 400px;
+}
+
+.item:not(:first-child) {
+	border-top: 1px solid #d1cfce;
+}
