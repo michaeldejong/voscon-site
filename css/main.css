@@ -26,46 +26,25 @@ h2 {
 	font-family: cicle gordita;
 }
 
-.main_container {
-	margin-top: 64px;
-	margin-bottom: 64px;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-.container {
-	width: 958px;
-	margin-top: 0px;
-	margin-bottom: 64px;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-.content {
-	padding: 19px 28px;
-}
-
-.block {
-	background-color: white;
-	border: 1px solid #92918f;
-	width: 100%;
-}
-
 #top-menu {
 	height: 73px;
 	background-color: white;
 	border-bottom: 2px solid #cccccc;
+	z-index: 10;
+	position: relative;
 }
 
 #top-menu #ribbon {
-	width: 115px;
-	height: 161px;
+	width: 123px;
+	height: 165px;
+	margin-left: 8px;
 	display: inline-block;
 	background-image: url(/img/ribbon.png);
+	z-index: 2; position: absolute;
 }
 
 #top-menu #menu-bar {
-	padding: 37px 14px 17px 14px;
+	padding: 37px 14px 17px 145px;
 	vertical-align: top;
 	display: inline-block;
 	height: 73px;
@@ -75,19 +54,150 @@ h2 {
 	padding: 5px 8px;
 	font-size: 10px;
 	text-transform: uppercase;
-	background-color: #f0f0f0;
+	background-color: #f8f8f8;
 	margin-right: 10px;
 	color: black;
+	
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -khtml-border-radius: 4px;
+    border-radius: 4px;
 }
 
 #top-menu #menu-bar a:hover {
-	background-color: #d0d0d0;
+	background-color: #e8e8e8;
 	text-decoration: none;
 }
 
-.rounded {
-    -moz-border-radius: 3px;
-    -webkit-border-radius: 3px;
-    -khtml-border-radius: 3px;
-    border-radius: 3px;
+#menu-image-slider {
+	background-color: white;
+	border: 1px solid #767675;
+	border-top: 0px;
+	
+	height: 459px;
+	
+	-webkit-box-shadow: 0px 0px 9px 2px rgba(128, 128, 128, 0.4);
+	box-shadow: 0px 0px 9px 2px rgba(128, 128, 128, 0.4);
+	
+    -moz-border-bottom-left-radius: 6px;
+    -webkit-border-bottom-left-radius: 6px;
+    -khtml-border-bottom-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    
+    -moz-border-bottom-right-radius: 6px;
+    -webkit-border-bottom-right-radius: 6px;
+    -khtml-border-bottom-right-radius: 6px;
+    border-bottom-right-radius: 6px;
 }
+
+#menu-image-slider .images img {
+    -moz-border-bottom-left-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -khtml-border-bottom-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    
+    -moz-border-bottom-right-radius: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    -khtml-border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.image-slider .images {
+    position: relative;
+}
+
+.image-slider .images img {
+    position: absolute;
+}
+
+.image-slider .images img.inactive {
+	display: none;
+}
+
+.image-slider .controls {
+	text-align: center;
+	position: relative;
+	bottom: 30px;
+	z-index: 5;
+	width: 100%;
+}
+
+.image-slider .controls i {
+	cursor: pointer;
+	height: 16px;
+	width: 16px;
+	display: inline-block;
+}
+
+.image-slider .controls i.active {
+	background-image: url(/img/slider-dot-active.png);
+}
+
+.image-slider .controls i.inactive {
+	opacity: 0.4;
+	filter:alpha(opacity=40);
+	background-image: url(/img/slider-dot-inactive.png);
+}
+
+.image-slider .controls i.inactive:hover {
+	opacity: 0.7;
+	filter:alpha(opacity=70);
+}
+
+#sub-menu-bar {
+	padding: 17px 14px 17px 149px;
+	width: 600px;
+	height: 110px;
+}
+
+#sub-menu-bar a {
+	padding: 5px 8px;
+	font-size: 10px;
+	text-transform: uppercase;
+	background-color: #8e8c8a;
+	margin-right: 10px;
+	color: black;
+	
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -khtml-border-radius: 4px;
+    border-radius: 4px;
+}
+
+#sub-menu-bar a:hover {
+	background-color: #807d7a;
+	text-decoration: none;
+}
+
+.item {
+	padding: 38px 56px 52px 56px;
+	background-color: white;
+	border: 1px solid #92918f;
+	-webkit-box-shadow: 0px 0px 9px 2px rgba(128, 128, 128, 0.4);
+	box-shadow: 0px 0px 9px 2px rgba(128, 128, 128, 0.4);
+	
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -khtml-border-radius: 6px;
+    border-radius: 6px;
+}
+
+.item:not(:first-child) {
+	margin-top: 20px;
+}
+
+.header {
+	margin-bottom: 24px;
+}
+
+.column_of_3 {
+	display: inline-block;
+	text-align: justify;
+	vertical-align: top;
+	width: 250px;
+}
+
+.column_of_3:not(:first-child) {
+	margin-left: 34px;
+}
+

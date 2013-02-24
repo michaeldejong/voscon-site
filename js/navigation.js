@@ -19,31 +19,10 @@ $("a.nav").click(function(event) {
 		$("html,body").animate({ scrollTop: position + "px" }, "slow");
 	}
 	else {
-		scrollToTopIfRequiredAndFadeOut(link);
+		window.location.href = link.attr("href")
 	}
 });
 
 function fadeIn() {
-	$("#canvas").hide().fadeIn(600);
-}
-
-function scrollToTopIfRequiredAndFadeOut(link) {
-	if ($(window).scrollTop() > 0) {
-		scrollToTopAndFadeOut(link);
-	}
-	else {
-		fadeOut(link);
-	}
-}
-
-function scrollToTopAndFadeOut(link) {
-	$("html, body").animate({scrollTop:0}, 'slow', function() {
-		fadeOut(link);
-	});
-}
-
-function fadeOut(link) {
-	$("#canvas").fadeOut(600, function() {
-		window.location.href=link.attr("href");
-	});
+	$("#items").hide().fadeIn(400);
 }
