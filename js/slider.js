@@ -1,29 +1,50 @@
 $(document).ready(function() {
 
-	setInterval(function() {
-		var sliders = $(".image-slider");
-		for (i = 0; i < sliders.length; i++) {
-			nextSlide(sliders.get(i));
-		}
-	}, 10000);
+	var sliders = $(".image-slider");
+	for (i = 0; i < sliders.length; i++) {
+		var slider = sliders.get(i);
+		startSlider(slider);
+	}
 	
 	$(".image-slider .controls i").click(function() {
-		toSlide($(this).parent().parent(), $(this).index());
+		var slider = $(this).parent().parent();
+		var slideIndex = $(this).index();
+		
+		stopSlider(slider);
+		toSlide(slider, slideIndex);
+		startSlider(slider);
 	});
 	
+	function startSlider(slider) {
+		slider = $(slider);
+		slider.data("timer", setInterval(function() {
+			nextSlide(slider);
+		}, 10000));
+	}
+	
+	function stopSlider(slider) {
+		slider = $(slider);
+		var interval = slider.data("timer");
+		if (interval != undefined) {
+			clearInterval(interval);
+		}
+	}
+	
 	function nextSlide(slider) {
-		var controls = $(slider).find(".controls");
+		var slider = $(slider);
+		var controls = slider.find(".controls");
 		var activeDot = controls.find(".active");
 		var index = activeDot.index();
 		var total = controls.children().length;
 		
 		var next = (index + 1) % total;
-		toSlide($(slider), next);
+		toSlide(slider, next);
 	}
 	
 	function toSlide(slider, index) {
-		var controls = $(slider).find(".controls");
-		var entries = $(slider).find(".images");
+		slider = $(slider);
+		var controls = slider.find(".controls");
+		var entries = slider.find(".images");
 		
 		var previousDot = controls.find(".active");
 		var nextDot = controls.find(":nth-child(" + (index + 1) + ")");

@@ -8,6 +8,11 @@
 	src: url('Cicle Gordita.ttf') format('truetype');
 }
 
+@font-face {
+	font-family: 'TitilliumText';
+	src: url('TitilliumText.otf') format('opentype');
+}
+
 body {
 	background-image: url(/img/background.png);
 	background-repeat: repeat-x;
@@ -18,12 +23,15 @@ body {
 	margin-top: -17px;
 	margin-bottom: 164px;
 	
-	font-family: ptsans, verdana, sans-sherif;
-	font-size: 11px;
+	word-wrap: break-word;
+	line-height: 22px;
+	font-family: TitilliumText, verdana, sans-sherif;
+	font-size: 14px;
 }
 
 h2 {
 	font-family: cicle gordita;
+	font-size: 28px;
 }
 
 #top-menu {
@@ -44,19 +52,24 @@ h2 {
 }
 
 #top-menu #menu-bar {
-	padding: 37px 14px 17px 145px;
+	font-size: 12px;
+	padding: 29px 14px 17px 145px;
 	vertical-align: top;
 	display: inline-block;
 	height: 73px;
 }
 
 #top-menu #menu-bar a {
-	padding: 5px 8px;
-	font-size: 10px;
+	padding: 5px 12px 3px 12px;
+	display: inline-block;
 	text-transform: uppercase;
 	background-color: #f8f8f8;
 	margin-right: 10px;
 	color: black;
+	
+	border: 1px solid #ddd;
+	border-bottom: 2px solid #ddd;
+	vertical-align: bottom;
 	
     -moz-border-radius: 4px;
     -webkit-border-radius: 4px;
@@ -65,20 +78,17 @@ h2 {
 }
 
 #top-menu #menu-bar a:hover {
+	border: 1px solid #ccc;
+	border-top: 2px solid #ccc;
 	background-color: #e8e8e8;
 	text-decoration: none;
 }
 
 #menu-image-slider {
-	background-color: white;
-	border: 1px solid #767675;
-	border-top: 0px;
-	
 	height: 459px;
-	
-	-webkit-box-shadow: 0px 0px 9px 2px rgba(128, 128, 128, 0.4);
-	box-shadow: 0px 0px 9px 2px rgba(128, 128, 128, 0.4);
-	
+}
+
+#menu-image-slider .images img {
     -moz-border-bottom-left-radius: 6px;
     -webkit-border-bottom-left-radius: 6px;
     -khtml-border-bottom-left-radius: 6px;
@@ -88,22 +98,17 @@ h2 {
     -webkit-border-bottom-right-radius: 6px;
     -khtml-border-bottom-right-radius: 6px;
     border-bottom-right-radius: 6px;
-}
-
-#menu-image-slider .images img {
-    -moz-border-bottom-left-radius: 5px;
-    -webkit-border-bottom-left-radius: 5px;
-    -khtml-border-bottom-left-radius: 5px;
-    border-bottom-left-radius: 5px;
     
-    -moz-border-bottom-right-radius: 5px;
-    -webkit-border-bottom-right-radius: 5px;
-    -khtml-border-bottom-right-radius: 5px;
-    border-bottom-right-radius: 5px;
+	-webkit-box-shadow: 0px 0px 9px 2px rgba(128, 128, 128, 0.4);
+	box-shadow: 0px 0px 9px 2px rgba(128, 128, 128, 0.4);
+    
+	border: 1px solid #767675;
+	border-top: 0px;
 }
 
 .image-slider .images {
     position: relative;
+	height: 459px;
 }
 
 .image-slider .images img {
@@ -199,5 +204,18 @@ h2 {
 
 .column_of_3:not(:first-child) {
 	margin-left: 34px;
+}
+
+@media (max-width: 980px) { 
+
+	.column_of_3 {
+		width: 100%;
+		display: block;
+	}
+	
+	.column_of_3:not(:first-child) {
+		margin: 22px 0px 0px 0px;
+	}
+
 }
 
