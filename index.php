@@ -2,17 +2,19 @@
 <?php require("includes/menu.php"); ?>
 		<div class="container">
 			<div id="menu-image-slider" class="image-slider">
-				<div class="images">
-					<img class="active" src="/img/main-slider-1.jpg" />
-					<img class="inactive" src="/img/main-slider-2.jpg" />
-					<img class="inactive" src="/img/main-slider-3.jpg" />
-					<img class="inactive" src="/img/main-slider-4.jpg" />
-				</div>
-				<div class="controls">
-					<i class="active"></i> 
-					<i class="inactive"></i> 
-					<i class="inactive"></i> 
-					<i class="inactive"></i> 
+				<div class="slider-container">
+					<div class="images">
+						<img class="active" src="/img/main-slider-1.jpg" />
+						<img class="inactive" src="/img/main-slider-2.jpg" />
+						<img class="inactive" src="/img/main-slider-3.jpg" />
+						<img class="inactive" src="/img/main-slider-4.jpg" />
+					</div>
+					<div class="controls">
+						<i class="active"></i> 
+						<i class="inactive"></i> 
+						<i class="inactive"></i> 
+						<i class="inactive"></i> 
+					</div>
 				</div>
 			</div>
 			<div class="items">
@@ -22,7 +24,7 @@
 						<h2>Title1</h2>
 						<a class="nav" href="#">Terug naar boven</a>
 					</div>
-					<div>
+					<div class="content">
 						<span class="column_of_3">
 							Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum 
 							is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende 
