@@ -1,7 +1,7 @@
 			<div id="top-menu">
 				<div class="container">
 					<div id="ribbon">
-						<a class="nav" href="/">
+						<a href="/">
 							<img src="/img/logo.png" />
 						</a>
 					</div>

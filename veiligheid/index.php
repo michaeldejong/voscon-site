@@ -3,7 +3,7 @@
 			<div class="container">
 				<div id="sub-menu-bar">
 				</div>
-				<div class="items">
+				<div id="items">
 				</div>
 			</div>
 <?php require("../includes/footer.php"); ?>
