@@ -7,7 +7,7 @@ $(document).ready(function() {
 	}
 	
 	$(".image-slider .controls i").click(function() {
-		var slider = $(this).parent().parent();
+		var slider = $(this).parent().parent().parent();
 		var slideIndex = $(this).index();
 		
 		stopSlider(slider);

@@ -24,7 +24,7 @@
 						<h2>Title1</h2>
 						<a class="nav" href="#">Terug naar boven</a>
 					</div>
-					<div class="content columns-1-1">
+					<div class="content columns-1-1"> 
 						Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum 
 						is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende 
 						drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus 

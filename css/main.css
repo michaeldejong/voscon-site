@@ -10,6 +10,11 @@
 }
 
 @font-face {
+	font-family: 'Roboto-Regular';
+	src: url('Roboto-Regular.ttf') format('truetype');
+}
+
+@font-face {
 	font-family: 'TitilliumText';
 	src: url('TitilliumText.otf') format('opentype');
 }
@@ -21,22 +26,18 @@ body {
 	
 	word-wrap: break-word;
 	line-height: 22px;
-	font-family: 'TitilliumText', verdana, sans-sherif;
+	font-family: 'Roboto-Regular', verdana, sans-sherif;
 	font-size: 13px;
 }
 
 a {
 	color: #08c;
-	font-family: 'TitilliumText', verdana, sans-sherif;
+	font-family: 'Roboto-Regular', verdana, sans-sherif;
 }
 
 h2 {
 	font-family: 'YanoneKaffeesatz-Regular';
 	font-size: 32px;
-}
-
-.inverted h2 {
-	font-family: 'YanoneKaffeesatz-Thin';
 }
 
 #content {
@@ -306,7 +307,8 @@ h2 {
 	background-image: url(/img/back-3.jpg);
 	background-position: center bottom;
 	background-repeat: no-repeat;
-	padding-bottom: 360px;
+	background-size: contain;
+	padding-bottom: 380px;
 }
 
 .item .header-0-1-0 {
@@ -372,7 +374,7 @@ h2 {
 }
 
 .item .map {
-	width: 100%;
+	width: 826px;
 	height: 420px;
 	border: 1px solid #808080;
 }
@@ -382,6 +384,10 @@ h2 {
 	
 	.item.background-2 {
 		padding-bottom: 410px !important;
+	}
+	
+	.item.background-3 {
+		padding-bottom: 290px !important;
 	}
 	
 	.item .header-0-1-0 {
@@ -433,6 +439,10 @@ h2 {
 	
 	.item.background-2 {
 		padding-bottom: 320px !important;
+	}
+	
+	.item.background-3 {
+		padding-bottom: 270px !important;
 	}
 	
 	.item .header-0-1-0 {
