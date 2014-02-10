@@ -70,6 +70,7 @@ h2 {
 }
 
 #footer .columns .container {
+    height: 350px;
 	column-count: 4;
 	-moz-column-count: 4;
 	-webkit-column-count: 4;
@@ -108,7 +109,8 @@ h2 {
 	background-color: white;
 	border-bottom: 2px solid #cccccc;
 	z-index: 10;
-	position: relative;
+    width: 100%;
+	position: fixed;
 }
 
 #top-menu #ribbon {
@@ -154,9 +156,9 @@ h2 {
 }
 
 #sub-menu-bar {
-	padding: 17px 14px 17px 149px;
+	padding: 87px 14px 17px 149px;
 	width: 600px;
-	height: 110px;
+	height: 70px;
 }
 
 #sub-menu-bar a {
@@ -368,7 +370,7 @@ h2 {
 }
 
 .item .columns-0-1 {
-	margin-left: 50%;
+    margin-left: 50%;
 	text-align: justify;
 	width: 50%;
 }
@@ -377,6 +379,27 @@ h2 {
 	width: 826px;
 	height: 420px;
 	border: 1px solid #808080;
+}
+
+.item h1, .item h2, .item h3 {
+    margin-top: 20px;
+}
+
+.item ul {
+    width: 360px;
+}
+
+.item ul li {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+.item ul li ul li, .item ul.no-margin li {
+    margin: 0px;
+}
+
+.item p {
+    margin-bottom: 25px;
 }
 
 

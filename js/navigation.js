@@ -35,7 +35,7 @@ function scrollToAnchor(anchor) {
 	var position = 0;
 	if (anchor != null && anchor != "") {
 		var destination = $('a[name="' + anchor + '"]');
-		var position = destination[0].offsetTop - 72;
+		var position = destination[0].offsetTop - 156;
 	}
 	$("html,body").animate({ scrollTop: position + "px" }, "slow");
 }

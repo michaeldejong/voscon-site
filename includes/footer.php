@@ -5,9 +5,7 @@
 					<div>
 						<ul>
 							<li><a class="nav" href="/engineering/#">Engineering</a></li>
-							<li><a class="nav" href="/engineering/#inmeten">Inmeten</a></li>
-							<li><a class="nav" href="/engineering/#ontwerp">Ontwerp</a></li>
-							<li><a class="nav" href="/engineering/#3d-tekening">3D tekening</a></li>
+							<li><a class="nav" href="/engineering/#engineering">Engineering</a></li>
 						</ul>
 					</div>
 					<div>
@@ -23,7 +21,6 @@
 						<ul>
 							<li><a class="nav" href="/montage/#">Montage</a></li>
 							<li><a class="nav" href="/montage/#montage">Montage</a></li>
-							<li><a class="nav" href="/montage/#werktuigbouw">Werktuigbouw</a></li>
 						</ul>
 					</div>
 					<div>
@@ -36,13 +33,21 @@
 					<div>
 						<ul>
 							<li><a class="nav" href="/veiligheid/#">Veiligheid</a></li>
+                            <li><a class="nav" href="/veiligheid/#iso9001">ISO-9001</a></li>
+                            <li><a class="nav" href="/veiligheid/#vca">VCA*</a></li>
 						</ul>
 					</div>
-					<div>
-						<ul>
-							<li><a class="nav" href="/projecten/#">Projecten</a></li>
-						</ul>
-					</div>
+                    <div>
+                        <ul>
+                            <li><a class="nav" href="/projecten/#">Projecten</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <ul>
+                            <li><a class="nav" href="/vacatures/#">Vacatures</a></li>
+                            <li><a class="nav" href="/vacatures/#3d-tekenaar">3D tekenaar</a></li>
+                        </ul>
+                    </div>
 					<div>
 						<ul>
 							<li><a class="nav" href="/contact/#">Contact</a></li>

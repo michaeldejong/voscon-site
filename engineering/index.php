@@ -2,93 +2,20 @@
 <?php require("../includes/menu.php"); ?>
 			<div class="container">
 				<div id="sub-menu-bar">
-					<a class="nav" href="/engineering/#inmeten">Inmeten</a>
-					<a class="nav" href="/engineering/#ontwerp">Ontwerp</a>
-					<a class="nav" href="/engineering/#3d-tekening">3D tekening</a>
+					<a class="nav" href="/engineering/#engineering">Engineering</a>
 				</div>
 				<div id="items">
 					<div class="item">
 						<div class="header">
-							<a name="inmeten"></a>
-							<h2>Inmeten</h2>
+							<a name="engineering"></a>
+							<h2>Engineering</h2>
 							<a class="nav" href="#">Terug naar boven</a>
 						</div>
-						<div class="content columns-1-1-1">
-							Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum 
-							is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende 
-							drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus 
-							te maken. Het heeft niet alleen vijf eeuwen overleefd maar is ook, vrijwel onveranderd, 
-							overgenomen in elektronische letterzetting. Het is in de jaren '60 populair geworden met 
-							de introductie van Letraset vellen met Lorem Ipsum passages en meer recentelijk door 
-							desktop publishing software zoals Aldus PageMaker die versies van Lorem Ipsum bevatten.
-							Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum 
-							is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende 
-							drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus 
-							te maken. Het heeft niet alleen vijf eeuwen overleefd maar is ook, vrijwel onveranderd, 
-							overgenomen in elektronische letterzetting. Het is in de jaren '60 populair geworden met 
-							de introductie van Letraset vellen met Lorem Ipsum passages en meer recentelijk door 
-							desktop publishing software zoals Aldus PageMaker die versies van Lorem Ipsum bevatten.
-							Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum 
-							is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende 
-							drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus 
-							te maken. Het heeft niet alleen vijf eeuwen overleefd maar is ook, vrijwel onveranderd, 
-							overgenomen in elektronische letterzetting. Het is in de jaren '60 populair geworden met 
-							de introductie van Letraset vellen met Lorem Ipsum passages en meer recentelijk door 
-							desktop publishing software zoals Aldus PageMaker die versies van Lorem Ipsum bevatten.
-						</div>
-					</div>
-					<div class="item background-3">
-						<div class="header">
-							<a name="ontwerp"></a>
-							<h2>Ontwerp</h2>
-							<a class="nav" href="#">Terug naar boven</a>
-						</div>
-						<div class="content columns-1-1-1">
-							Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum 
-							is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende 
-							drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus 
-							te maken. Het heeft niet alleen vijf eeuwen overleefd maar is ook, vrijwel onveranderd, 
-							overgenomen in elektronische letterzetting. Het is in de jaren '60 populair geworden met 
-							de introductie van Letraset vellen met Lorem Ipsum passages en meer recentelijk door 
-							desktop publishing software zoals Aldus PageMaker die versies van Lorem Ipsum bevatten.
-							Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum 
-							is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende 
-							drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus 
-							te maken. Het heeft niet alleen vijf eeuwen overleefd maar is ook, vrijwel onveranderd, 
-							overgenomen in elektronische letterzetting. Het is in de jaren '60 populair geworden met 
-							de introductie van Letraset vellen met Lorem Ipsum passages en meer recentelijk door 
-							desktop publishing software zoals Aldus PageMaker die versies van Lorem Ipsum bevatten.
-						</div>
-					</div>
-					<div class="item">
-						<div class="header">
-							<a name="3d-tekening"></a>
-							<h2>3D tekening</h2>
-							<a class="nav" href="#">Terug naar boven</a>
-						</div>
-						<div class="content columns-1-1-1">
-							Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum 
-							is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende 
-							drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus 
-							te maken. Het heeft niet alleen vijf eeuwen overleefd maar is ook, vrijwel onveranderd, 
-							overgenomen in elektronische letterzetting. Het is in de jaren '60 populair geworden met 
-							de introductie van Letraset vellen met Lorem Ipsum passages en meer recentelijk door 
-							desktop publishing software zoals Aldus PageMaker die versies van Lorem Ipsum bevatten.
-							Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum 
-							is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende 
-							drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus 
-							te maken. Het heeft niet alleen vijf eeuwen overleefd maar is ook, vrijwel onveranderd, 
-							overgenomen in elektronische letterzetting. Het is in de jaren '60 populair geworden met 
-							de introductie van Letraset vellen met Lorem Ipsum passages en meer recentelijk door 
-							desktop publishing software zoals Aldus PageMaker die versies van Lorem Ipsum bevatten.
-							Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum 
-							is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende 
-							drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus 
-							te maken. Het heeft niet alleen vijf eeuwen overleefd maar is ook, vrijwel onveranderd, 
-							overgenomen in elektronische letterzetting. Het is in de jaren '60 populair geworden met 
-							de introductie van Letraset vellen met Lorem Ipsum passages en meer recentelijk door 
-							desktop publishing software zoals Aldus PageMaker die versies van Lorem Ipsum bevatten.
-						</div>
+						<div class="content columns-1">
+                            Voscon BV heeft zijn eigen engineering afdeling in huis. Dit betekent dat wij voor u op
+                            locatie kunnen inmeten, ontwerpen en tekenen. Voor onze tekeningen maakt onze tekenkamer
+                            gebruik van het modernste tekensoftware, zoals het geavanceerde 3-D pakket SolidWorks.
+                        </div>
 					</div>
 				</div>
 			</div>

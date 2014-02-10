@@ -11,7 +11,8 @@
 						<a href="/montage/">Montage</a>
 						<a href="/service/">Service</a>
 						<a href="/veiligheid/">Veiligheid</a>
-						<a href="/projecten/">Projecten</a>
+                        <a href="/projecten/">Projecten</a>
+                        <a href="/vacatures/">Vacatures</a>
 						<a href="/contact/">Contact</a>
 					</div>
 				</div>
