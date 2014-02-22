@@ -21,8 +21,8 @@
                             ge&iuml;nvesteerd, zoals de recentelijk plaatsing van een boortapmachine en een nieuwe
                             draaibank voor de grotere afmetingen.</p>
 
-                            <h3>Specificaties machinepark</h3>
-                            <div style="margin-top: 15px;">
+                            <h3><a data-toggle="collapse" data-parent="#accordion" href="#machinepark-verspanen">Specificaties machinepark</a></h3>
+                            <div id="machinepark-verspanen" class="panel-collapse collapse out" style="margin-top: 15px;">
                                 <ul style="display: inline-block; vertical-align: top;">
                                     <li>
                                         <strong>CNC Bewerkingscentrum</strong>
@@ -84,43 +84,50 @@
 							<a class="nav" href="#">Terug naar boven</a>
 						</div>
 						<div class="content columns-0-1">
-                            <p>Voscon BV beschikt over een eigen afdeling plaatwerkerij waarin wij in eigen beheer platen
-                            kunnen knippen, ponsen en zetten. Tevens hebben wij sinds 2012 onze eigen watersnijmachine,
-                            zodat wij met nog kortere levertijden kunnen werken.</p>
+                            <div style="position: static; display: inline-block;">
+                                <p>Voscon BV beschikt over een eigen afdeling plaatwerkerij waarin wij in eigen beheer platen
+                                    kunnen knippen, ponsen en zetten. Tevens hebben wij sinds 2012 onze eigen watersnijmachine,
+                                    zodat wij met nog kortere levertijden kunnen werken.</p>
 
-                            <h3>Specificaties machinepark</h3>
-                            <div style="margin-top: 15px;">
-                                <ul style="display: inline-block; vertical-align: top;">
-                                    <li>
-                                        <strong>Watersnijmachine</strong>
-                                        <ul>
-                                            <li>Type: OMAX 80160</li>
-                                            <li>Tafel afmeting: 4.420x 2.260 mm</li>
-                                            <li>Traverse XY: 4.267x 2.030 mm</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Zetbank</strong>
-                                        <ul>
-                                            <li>Type: SAFAN CNCL-K110</li>
-                                            <li>Werklengte: maximaal 3.000 mm</li>
-                                            <li>Dikte: tot 8 mm</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Guillotine schaar</strong>
-                                        <ul>
-                                            <li>Type: LVD HST-E</li>
-                                            <li>Werklengte: maximaal 3.000 mm</li>
-                                            <li>Diameter: tot 6 mm. (staal) en tot 4 mm. (RVS)</li>
-                                        </ul>
-                                    </li>
-                                </ul>
+                                <h3><a data-toggle="collapse" data-parent="#accordion" href="#machinepark-plaatwerkerij">Specificaties machinepark</a></h3>
+                                <div id="machinepark-plaatwerkerij" class="panel-collapse collapse out" style="margin-top: 15px;">
+                                    <ul style="display: inline-block; vertical-align: top;">
+                                        <li>
+                                            <strong>Watersnijmachine</strong>
+                                            <ul>
+                                                <li>Type: OMAX 80160</li>
+                                                <li>Tafel afmeting: 4.420x 2.260 mm</li>
+                                                <li>Traverse XY: 4.267x 2.030 mm</li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <strong>Zetbank</strong>
+                                            <ul>
+                                                <li>Type: SAFAN CNCL-K110</li>
+                                                <li>Werklengte: maximaal 3.000 mm</li>
+                                                <li>Dikte: tot 8 mm</li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <strong>Guillotine schaar</strong>
+                                            <ul>
+                                                <li>Type: LVD HST-E</li>
+                                                <li>Werklengte: maximaal 3.000 mm</li>
+                                                <li>Diameter: tot 6 mm. (staal) en tot 4 mm. (RVS)</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                                Onder het kopje <a href="/projecten">"projecten"</a> treft u diverse foto's aan van onze
+                                werkzaamheden.
                             </div>
-
-                            Onder het kopje <a href="/projecten">"projecten"</a> treft u diverse foto's aan van onze
-                            werkzaamheden.
-
+                            <div style="position: relative; display: inline-block; left: -400px; top: 32px;">
+                                <a href="http://www.youtube.com/watch?v=RImKlCiPH9s&hd=1" target="_blank">
+                                    <img src="/img/play-icon.png">
+                                    <h3 style="color: white; vertical-align: -15px; display: inline-block;">Bekijk een impressie <br/>van onze watersnijder</h3>
+                                </a>
+                            </div>
                         </div>
 					</div>
 					<div class="item background-2 inverted">

@@ -40,6 +40,8 @@
                     <div>
                         <ul>
                             <li><a class="nav" href="/projecten/#">Projecten</a></li>
+                            <li><a class="nav" href="/projecten/cargo-tec">Cargo-Tec</a></li>
+                            <li><a class="nav" href="/projecten/almatis">Almatis</a></li>
                         </ul>
                     </div>
                     <div>
