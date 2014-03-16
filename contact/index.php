@@ -6,7 +6,7 @@
 					<a class="nav" href="/contact/#routebeschrijving">Routebeschrijving</a>
 				</div>
 				<div id="items">
-					<div class="item rounded background-4" style="min-height: 840px;">
+					<div class="item rounded-top background-4" style="min-height: 840px;">
 						<div class="header">
 							<a name="contact-opnemen"></a>
 							<h2>Contact opnemen</h2>

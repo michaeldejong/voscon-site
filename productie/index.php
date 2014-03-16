@@ -174,13 +174,13 @@
 
                         </div>
 					</div>
-					<div class="item">
-						<div class="header">
-							<a name="modificeren"></a>
-							<h2>Modificeren</h2>
-							<a class="nav" href="#">Terug naar boven</a>
-						</div>
-						<div class="content columns-1">
+					<div class="item rounded-bottom background-6 inverted">
+						<div class="content columns-0-1">
+                            <div class="header">
+                                <a name="modificeren"></a>
+                                <h2>Modificeren</h2>
+                                <a class="nav" href="#">Terug naar boven</a>
+                            </div>
                             <p>Bestaande constructies, apparaten en of onderdelen kunnen wij in onze werkplaats of
                             verspanerij modificeren volgens uw opgave. Desgevraagd maken wij hier eerst een tekening
                             voor. Voorbeelden van modificaties die hebben plaats gevonden:</p>

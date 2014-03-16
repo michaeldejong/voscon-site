@@ -5,13 +5,13 @@
 					<a class="nav" href="/montage/#montage">Montage</a>
 				</div>
 				<div id="items">
-                    <div class="item rounded background-6 inverted">
-                        <div class="content columns-0-1">
-                            <div class="header">
-                                <a name="montage"></a>
-                                <h2>Montage</h2>
-                                <a class="nav" href="#">Terug naar boven</a>
-                            </div>
+                    <div class="item rounded background-7" style="min-height: 850px;">
+                        <div class="header">
+                            <a name="montage"></a>
+                            <h2>Montage</h2>
+                            <a class="nav" href="#">Terug naar boven</a>
+                        </div>
+                        <div class="content columns-1-1">
                             Producten van Voscon BV worden door de eigen montageafdeling gemonteerd in binnen- en
                             buitenland. De allround constructie- bankwerkers, gekwalificeerde lassers en monteurs zijn
                             in het bezit van een heftruck- , hoogwerker- , veilig hijsen en VCA veiligheidscertificaat
