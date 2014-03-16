@@ -3,68 +3,78 @@
 			<div class="container">
 				<div id="sub-menu-bar">
 					<a class="nav" href="/contact/#contact-opnemen">Contact opnemen</a>
-					<a class="nav" href="/contact/#contactformulier">Contactformulier</a>
 					<a class="nav" href="/contact/#routebeschrijving">Routebeschrijving</a>
 				</div>
 				<div id="items">
-					<div class="item">
+					<div class="item rounded background-4" style="min-height: 840px;">
 						<div class="header">
 							<a name="contact-opnemen"></a>
 							<h2>Contact opnemen</h2>
 							<a class="nav" href="#">Terug naar boven</a>
 						</div>
-						<div class="content columns-1-1-1">
-							Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum 
-							is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende 
-							drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus 
-							te maken. Het heeft niet alleen vijf eeuwen overleefd maar is ook, vrijwel onveranderd, 
-							overgenomen in elektronische letterzetting. Het is in de jaren '60 populair geworden met 
-							de introductie van Letraset vellen met Lorem Ipsum passages en meer recentelijk door 
-							desktop publishing software zoals Aldus PageMaker die versies van Lorem Ipsum bevatten.
-							Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum 
-							is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende 
-							drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus 
-							te maken. Het heeft niet alleen vijf eeuwen overleefd maar is ook, vrijwel onveranderd, 
-							overgenomen in elektronische letterzetting. Het is in de jaren '60 populair geworden met 
-							de introductie van Letraset vellen met Lorem Ipsum passages en meer recentelijk door 
-							desktop publishing software zoals Aldus PageMaker die versies van Lorem Ipsum bevatten.
-							Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum 
-							is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende 
-							drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus 
-							te maken. Het heeft niet alleen vijf eeuwen overleefd maar is ook, vrijwel onveranderd, 
-							overgenomen in elektronische letterzetting. Het is in de jaren '60 populair geworden met 
-							de introductie van Letraset vellen met Lorem Ipsum passages en meer recentelijk door 
-							desktop publishing software zoals Aldus PageMaker die versies van Lorem Ipsum bevatten.
-						</div>
-					</div>
-					<div class="item">
-						<div class="header">
-							<a name="contactformulier"></a>
-							<h2>Contactformulier</h2>
-							<a class="nav" href="#">Terug naar boven</a>
-						</div>
-						<div class="content columns-1-1-1">
-							Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum 
-							is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende 
-							drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus 
-							te maken. Het heeft niet alleen vijf eeuwen overleefd maar is ook, vrijwel onveranderd, 
-							overgenomen in elektronische letterzetting. Het is in de jaren '60 populair geworden met 
-							de introductie van Letraset vellen met Lorem Ipsum passages en meer recentelijk door 
-							desktop publishing software zoals Aldus PageMaker die versies van Lorem Ipsum bevatten.
-							Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum 
-							is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende 
-							drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus 
-							te maken. Het heeft niet alleen vijf eeuwen overleefd maar is ook, vrijwel onveranderd, 
-							overgenomen in elektronische letterzetting. Het is in de jaren '60 populair geworden met 
-							de introductie van Letraset vellen met Lorem Ipsum passages en meer recentelijk door 
-							desktop publishing software zoals Aldus PageMaker die versies van Lorem Ipsum bevatten.
-							Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum 
-							is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende 
-							drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus 
-							te maken. Het heeft niet alleen vijf eeuwen overleefd maar is ook, vrijwel onveranderd, 
-							overgenomen in elektronische letterzetting. Het is in de jaren '60 populair geworden met 
-							de introductie van Letraset vellen met Lorem Ipsum passages en meer recentelijk door 
-							desktop publishing software zoals Aldus PageMaker die versies van Lorem Ipsum bevatten.
+						<div class="content columns-1">
+                            <table class="table table-condensed">
+                                <thead>
+                                    <tr>
+                                        <td style="width: 38%;">M. van de Merwe</td>
+                                        <td style="width: 38%;">G. Poot</td>
+                                        <td style="width: 24%;">R. van de Merwe</td>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Directie, Verkoop en productie</td>
+                                        <td>Directie, Service en montage</td>
+                                        <td>Inkoop</td>
+                                    </tr>
+                                    <tr>
+                                        <td>tel: 010-4451117</td>
+                                        <td>tel: 010-4451112</td>
+                                        <td>tel: 010-4451119</td>
+                                    </tr>
+                                    <tr>
+                                        <td>fax: 010-4451118</td>
+                                        <td>fax: 010-4451118</td>
+                                        <td>fax: 010-4451116</td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="mailto:mvande.merwe@voscon.nl">mvande.merwe@voscon.nl</a></td>
+                                        <td><a href="mailto:g.poot@voscon.nl">g.poot@voscon.nl</a></td>
+                                        <td><a href="mailto:rvande.merwe@voscon.nl">rvande.merwe@voscon.nl</a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <table class="table table-condensed">
+                                <thead>
+                                    <tr>
+                                        <td style="width: 38%;">D.L. de Kievit</td>
+                                        <td style="width: 38%;">G. Bal</td>
+                                        <td style="width: 24%;">M. Ridderhof</td>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Werkvoorbereiding</td>
+                                        <td>Engineering</td>
+                                        <td>Administratie</td>
+                                    </tr>
+                                    <tr>
+                                        <td>tel: 010-4451115</td>
+                                        <td>tel: 010-4451114</td>
+                                        <td>tel: 010-4451111</td>
+                                    </tr>
+                                    <tr>
+                                        <td>fax: 010-4451116</td>
+                                        <td>fax: 010-4451116</td>
+                                        <td>fax: 010-4451118</td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="mailto:dlde.kievit@voscon.nl">dlde.kievit@voscon.nl</a></td>
+                                        <td><a href="mailto:tekenkamer@voscon.nl">tekenkamer@voscon.nl</a></td>
+                                        <td><a href="mailto:m.ridderhof@voscon.nl">m.ridderhof@voscon.nl</a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
 						</div>
 					</div>
 					<div class="item">

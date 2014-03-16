@@ -40,6 +40,25 @@ h2 {
 	font-size: 32px;
 }
 
+table {
+    width: 100%;
+    margin-top: 50px;
+}
+
+table td {
+    border: 0px !important;
+}
+
+table thead td {
+    border-bottom: 1px solid #ccc !important;
+}
+
+table thead td {
+    font-weight: bold;
+    font-size: 21px;
+    font-family: 'YanoneKaffeesatz-Regular';
+}
+
 #content {
 	background-image: url(/img/background.png);
 	background-repeat: repeat-x;
@@ -187,6 +206,7 @@ h2 {
 }
 
 #menu-image-slider {
+    margin-top: 50px;
 	margin-bottom: 32px;
 }
 
@@ -282,6 +302,13 @@ h2 {
     border-radius: 6px;
 }
 
+.rounded {
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -khtml-border-radius: 6px;
+    border-radius: 6px;
+}
+
 .item {
 	padding: 48px 56px 96px 56px;
 	border-bottom: 1px solid #ddd;
@@ -323,12 +350,35 @@ h2 {
 }
 
 .item.background-3 {
-	background-color: #fff;
-	background-image: url(/img/back-3.jpg);
-	background-position: center bottom;
-	background-repeat: no-repeat;
-	background-size: contain;
-	padding-bottom: 380px;
+    background-color: #fff;
+    background-image: url(/img/back-3.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-bottom: 380px;
+}
+
+.item.background-4 {
+    background-color: #fff;
+    background-image: url(/img/back-4.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 700px;
+}
+
+.item.background-5 {
+    background-image: url(/img/back-5.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.item.background-6 {
+    background-image: url(/img/back-6.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .item .header-0-1-0 {
@@ -395,7 +445,7 @@ h2 {
 
 .item .map {
 	width: 826px;
-	height: 420px;
+	height: 640px;
 	border: 1px solid #808080;
 }
 

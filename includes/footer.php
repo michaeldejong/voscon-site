@@ -54,7 +54,6 @@
 						<ul>
 							<li><a class="nav" href="/contact/#">Contact</a></li>
 							<li><a class="nav" href="/contact/#contact-opnemen">Contact opnemen</a></li>
-							<li><a class="nav" href="/contact/#contactformulier">Contactformulier</a></li>
 							<li><a class="nav" href="/contact/#routebeschrijving">Routebeschrijving</a></li>
 						</ul>
 					</div>

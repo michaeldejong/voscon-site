@@ -6,9 +6,7 @@
 				<div id="items">
                     <div class="item">
                         <div class="header">
-                            <a name="almatis"></a>
                             <h2>Almatis</h2>
-                            <a class="nav" href="#">Terug naar boven</a>
                         </div>
                         <div class="content columns-1">
                             <div class="image-list">

@@ -77,7 +77,7 @@
 
                         </div>
 					</div>
-					<div class="item background-1 inverted">
+					<div class="item background-5 inverted">
 						<div class="header header-0-1">
 							<a name="plaatwerkerij"></a>
 							<h2>Plaatwerkerij</h2>
@@ -122,7 +122,7 @@
                                 Onder het kopje <a href="/projecten">"projecten"</a> treft u diverse foto's aan van onze
                                 werkzaamheden.
                             </div>
-                            <div style="position: relative; display: inline-block; left: -400px; top: 32px;">
+                            <div style="margin-top: 32px;">
                                 <a href="http://www.youtube.com/watch?v=RImKlCiPH9s&hd=1" target="_blank">
                                     <img src="/img/play-icon.png">
                                     <h3 style="color: white; vertical-align: -15px; display: inline-block;">Bekijk een impressie <br/>van onze watersnijder</h3>

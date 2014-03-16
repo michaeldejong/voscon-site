@@ -7,6 +7,9 @@
                 </div>
                 <div id="items">
                     <div class="item">
+                        <div>
+                            <a class="pull-right" href="/files/iso-certificaat.pdf"><img src="/img/pdf.png"></a>
+                        </div>
                         <div class="header">
                             <a name="iso9001"></a>
                             <h2>ISO-9001</h2>
@@ -36,18 +39,21 @@
                         </div>
                     </div>
                     <div class="item">
+                        <div>
+                            <a class="pull-right" href="/files/vca-certificaat.pdf"><img src="/img/pdf.png"></a>
+                        </div>
                         <div class="header">
                             <a name="vca"></a>
                             <h2>VCA*</h2>
                             <a class="nav" href="#">Terug naar boven</a>
                         </div>
                         <div class="content columns-1-1">
-                            <p>Voscon BV is sinds 2007 VCA* gecertificeerd, er wordt een beleid gevoerd gericht op de
-                                continue verbetering van VGM en het reduceren van ongevallen, incidenten, materi&euml;le
-                                - en milieuschade en het bevorderen van een voor een ieder prettige en bovenal veilige
-                                werkomgeving.</p>
+                            <p>Voscon BV is sinds 2007 VCA* gecertificeerd. Dat wil zeggen dat er een beleid wordt
+                                gevoerd gericht op de continue verbetering van VGM (Veiligheid, Gezondheid en Milieu),
+                                het reduceren van ongevallen, incidenten, materi&euml;le- en milieuschade en het
+                                bevorderen van een voor een iedereen prettige en bovenal veilige werkomgeving.</p>
 
-                            <p>VCA staat voor VGM (Veiligheid, Gezondheid en Milieu) Checklist Aannemers. Het is een
+                            <p>VCA staat voor VGM Checklist Aannemers. Het is een
                                 veelzijdig eisenpakket waarmee steeds meer dienstverlenende bedrijven objectief en
                                 structureel kunnen worden getoetst en gecertificeerd op de aspecten van hun
                                 veiligheids-, gezondheids- en milieu (VGM)-beleid. Voscon BV heeft de VCA richtlijnen

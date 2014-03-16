@@ -7,18 +7,16 @@
 						<img class="active" src="/img/main-slider-1.jpg" />
 						<img class="inactive" src="/img/main-slider-2.jpg" />
 						<img class="inactive" src="/img/main-slider-3.jpg" />
-						<img class="inactive" src="/img/main-slider-4.jpg" />
 					</div>
 					<div class="controls">
 						<i class="active"></i> 
-						<i class="inactive"></i> 
 						<i class="inactive"></i> 
 						<i class="inactive"></i> 
 					</div>
 				</div>
 			</div>
 			<div id="items">
-				<div class="item">
+				<div class="item rounded background-4">
 					<div class="header">
 						<a name="title1"></a>
 						<h2>Voscon V.B.S. B.V.</h2>
