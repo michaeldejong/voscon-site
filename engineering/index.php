@@ -5,7 +5,7 @@
 					<a class="nav" href="/engineering/#engineering">Engineering</a>
 				</div>
 				<div id="items">
-					<div class="item">
+					<div class="item background-14 rounded" style="min-height: 900px;">
 						<div class="header">
 							<a name="engineering"></a>
 							<h2>Engineering</h2>

@@ -90,13 +90,21 @@ table thead td {
 }
 
 #footer .columns .container {
-    height: 350px;
+    height: 380px;
 	column-count: 4;
 	-moz-column-count: 4;
 	-webkit-column-count: 4;
 	column-gap: 24px;
 	-moz-column-gap: 24px;
 	-webkit-column-gap: 24px;
+}
+
+#footer .columns .container .short {
+    height: 100px;
+}
+
+#footer .columns .container .tall {
+    height: 250px;
 }
 
 #footer .container div {
@@ -414,6 +422,62 @@ table thead td {
     background-size: cover;
 }
 
+.item.background-8 {
+    background-image: url(/img/back-8.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+.item.background-9 {
+    background-image: url(/img/back-9.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+.item.background-10 {
+    background-image: url(/img/back-10.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+.item.background-11 {
+    background-image: url(/img/back-11.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-color: #33588b;
+}
+
+.item.background-12 {
+    background-image: url(/img/back-12.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+.item.background-13 {
+    background-image: url(/img/back-13.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+.item.background-14 {
+    background-image: url(/img/back-14.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+.item.background-15 {
+    background-image: url(/img/back-15.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
 .item .header-0-1-0 {
 	margin-left: 33%;
 }
@@ -501,6 +565,10 @@ table thead td {
 
 .item p {
     margin-bottom: 25px;
+}
+
+.project-bar:not(:first-child) {
+    margin-top: 38px;
 }
 
 .project-item {

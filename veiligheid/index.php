@@ -6,10 +6,7 @@
                     <a class="nav" href="/veiligheid/#vca">VCA*</a>
                 </div>
                 <div id="items">
-                    <div class="item">
-                        <div>
-                            <a class="pull-right" href="/files/iso-certificaat.pdf"><img src="/img/pdf.png"></a>
-                        </div>
+                    <div class="item background-15 rounded-top" style="min-height: 750px; padding-bottom: 150px;">
                         <div class="header">
                             <a name="iso9001"></a>
                             <h2>ISO-9001</h2>
@@ -36,12 +33,16 @@
                             <p>ISO gecertificeerd zijn houdt kortweg in: Zeggen wat je doet , doen wat je zegt en het
                                 bewijzen.</p>
 
+                            <div style="text-align: center;">
+                                <a href="/files/iso-certificaat.pdf"><img src="/img/iso-certificaat.jpg"></a>
+                            </div>
+                            <br/>
+                            <br/>
+                            <br/>
+                            <br/>
                         </div>
                     </div>
-                    <div class="item">
-                        <div>
-                            <a class="pull-right" href="/files/vca-certificaat.pdf"><img src="/img/pdf.png"></a>
-                        </div>
+                    <div class="item background-15 rounded-bottom" style="min-height: 750px; padding-bottom: 150px;">
                         <div class="header">
                             <a name="vca"></a>
                             <h2>VCA*</h2>
@@ -59,6 +60,9 @@
                                 veiligheids-, gezondheids- en milieu (VGM)-beleid. Voscon BV heeft de VCA richtlijnen
                                 volledig ge&iuml;ntegreerd in haar ISO 9001 managementsysteem.</p>
 
+                            <div style="text-align: center;">
+                                <a href="/files/vca-certificaat.pdf"><img src="/img/vca-certificaat.jpg"></a>
+                            </div>
                         </div>
                     </div>
                 </div>

@@ -8,7 +8,7 @@
 					<a class="nav" href="/productie/#modificeren">Modificeren</a>
 				</div>
 				<div id="items">
-					<div class="item">
+					<div class="item background-10 rounded-top" style="padding-bottom: 660px;">
 						<div class="header">
 							<a name="verspanen"></a>
 							<h2>Verspanen</h2>
@@ -130,7 +130,7 @@
                             </div>
                         </div>
 					</div>
-					<div class="item background-2 inverted">
+					<div class="item background-9" style="padding-bottom: 640px;">
 						<div class="header">
 							<a name="constructiewerk"></a>
 							<h2>Constructiewerk</h2>
@@ -151,7 +151,7 @@
                                 <li>(Kooi-)ladders en trappen, Voscon heeft een zeer ruime ervaring in diverse maatwerk
                                     stalen kooiladders, steek-, wentel- en spiltrappen voor verschillende industriële
                                     branches en doeleinden in onder andere de offshore, nieuwbouw en utiliteitsbouw. De
-                                    trappen kunnen in één stuk tot 19 meter lengte, thermisch verzinkt en eventueel
+                                    trappen kunnen in &eacute;&eacute;n stuk tot 19 meter lengte, thermisch verzinkt en eventueel
                                     gecoat in elke gewenste kleur, geleverd en gemonteerd worden.</li>
                                 <li>Constructie bouw, op basis van plaat en/of profiel in staal, roestvrijstaal en
                                     aluminium zoals fundaties, bordessen, machine frames en draagconstructies. Alles in
@@ -170,11 +170,9 @@
                             Onder het kopje <a href="/projecten">"projecten"</a> treft u diverse foto's aan van onze
                             werkzaamheden.
 
-                            <div style="height: 420px;"></div>
-
                         </div>
 					</div>
-					<div class="item rounded-bottom background-6 inverted">
+					<div class="item rounded-bottom background-6 inverted" style="min-height: 450px;">
 						<div class="content columns-0-1">
                             <div class="header">
                                 <a name="modificeren"></a>

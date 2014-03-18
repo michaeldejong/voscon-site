@@ -23,19 +23,19 @@
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td>Directie, Verkoop en productie</td>
-                                        <td>Directie, Service en montage</td>
-                                        <td>Inkoop</td>
+                                        <td>Directie, verkoop en productie</td>
+                                        <td>Directie, service en montage</td>
+                                        <td>Werkvoorbereiding en inkoop</td>
                                     </tr>
                                     <tr>
-                                        <td>tel: 010-4451117</td>
-                                        <td>tel: 010-4451112</td>
-                                        <td>tel: 010-4451119</td>
+                                        <td>tel: 010-4451111</td>
+                                        <td>tel: 010-4451111</td>
+                                        <td>tel: 010-4451114</td>
                                     </tr>
                                     <tr>
                                         <td>fax: 010-4451118</td>
                                         <td>fax: 010-4451118</td>
-                                        <td>fax: 010-4451116</td>
+                                        <td>fax: 010-4451118</td>
                                     </tr>
                                     <tr>
                                         <td><a href="mailto:mvande.merwe@voscon.nl">mvande.merwe@voscon.nl</a></td>
@@ -48,24 +48,24 @@
                                 <thead>
                                     <tr>
                                         <td style="width: 38%;">D.L. de Kievit</td>
-                                        <td style="width: 38%;">G. Bal</td>
+                                        <td style="width: 38%;">G. Bal & G. van Hagen</td>
                                         <td style="width: 24%;">M. Ridderhof</td>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td>Werkvoorbereiding</td>
+                                        <td>Werkvoorbereiding en las co&ouml;rdinator</td>
                                         <td>Engineering</td>
-                                        <td>Administratie</td>
+                                        <td>Financi&euml;le dministratie</td>
                                     </tr>
                                     <tr>
                                         <td>tel: 010-4451115</td>
-                                        <td>tel: 010-4451114</td>
+                                        <td>tel: 010-4451149</td>
                                         <td>tel: 010-4451111</td>
                                     </tr>
                                     <tr>
-                                        <td>fax: 010-4451116</td>
-                                        <td>fax: 010-4451116</td>
+                                        <td>fax: 010-4451118</td>
+                                        <td>fax: 010-4451118</td>
                                         <td>fax: 010-4451118</td>
                                     </tr>
                                     <tr>
