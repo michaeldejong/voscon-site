@@ -56,7 +56,7 @@
                                     <tr>
                                         <td>Werkvoorbereiding en las co&ouml;rdinator</td>
                                         <td>Engineering</td>
-                                        <td>Financi&euml;le dministratie</td>
+                                        <td>Financi&euml;le administratie</td>
                                     </tr>
                                     <tr>
                                         <td>tel: 010-4451115</td>
