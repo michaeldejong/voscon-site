@@ -137,7 +137,7 @@ table thead td {
 	background-color: white;
 	border-bottom: 2px solid #cccccc;
 	z-index: 10;
-    width: 100%;
+	width: 100%;
 	position: fixed;
 }
 
@@ -550,7 +550,7 @@ table thead td {
     margin-top: 20px;
 }
 
-.item ul {
+.item ul.half-width {
     width: 360px;
 }
 

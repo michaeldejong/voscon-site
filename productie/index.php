@@ -23,7 +23,7 @@
 
                             <h3><a data-toggle="collapse" data-parent="#accordion" href="#machinepark-verspanen">Specificaties machinepark</a></h3>
                             <div id="machinepark-verspanen" class="panel-collapse collapse out" style="margin-top: 15px;">
-                                <ul style="display: inline-block; vertical-align: top;">
+                                <ul class="half-width" style="display: inline-block; vertical-align: top;">
                                     <li>
                                         <strong>CNC Bewerkingscentrum</strong>
                                         <ul>
@@ -76,14 +76,14 @@
                             werkzaamheden.
 
                         </div>
-					</div>
-					<div class="item background-5 inverted">
-						<div class="header header-0-1">
-							<a name="plaatwerkerij"></a>
-							<h2>Plaatwerkerij</h2>
-							<a class="nav" href="#">Terug naar boven</a>
-						</div>
-						<div class="content columns-0-1">
+		</div>
+		<div class="item background-5 inverted">
+			<div class="header header-0-1">
+				<a name="plaatwerkerij"></a>
+				<h2>Plaatwerkerij</h2>
+				<a class="nav" href="#">Terug naar boven</a>
+			</div>
+			<div class="content columns-0-1">
                             <div style="position: static; display: inline-block;">
                                 <p>Voscon BV beschikt over een eigen afdeling plaatwerkerij waarin wij in eigen beheer platen
                                     kunnen knippen, ponsen en zetten. Tevens hebben wij sinds 2012 onze eigen watersnijmachine,
@@ -91,7 +91,7 @@
 
                                 <h3><a data-toggle="collapse" data-parent="#accordion" href="#machinepark-plaatwerkerij">Specificaties machinepark</a></h3>
                                 <div id="machinepark-plaatwerkerij" class="panel-collapse collapse out" style="margin-top: 15px;">
-                                    <ul style="display: inline-block; vertical-align: top;">
+                                    <ul class="half-width" style="display: inline-block; vertical-align: top;">
                                         <li>
                                             <strong>Watersnijmachine</strong>
                                             <ul>
@@ -129,14 +129,14 @@
                                 </a>
                             </div>
                         </div>
-					</div>
-					<div class="item background-9" style="padding-bottom: 640px;">
-						<div class="header">
-							<a name="constructiewerk"></a>
-							<h2>Constructiewerk</h2>
-							<a class="nav" href="#">Terug naar boven</a>
-						</div>
-						<div class="content columns-1-1">
+		</div>
+		<div class="item background-9" style="padding-bottom: 640px;">
+			<div class="header">
+				<a name="constructiewerk"></a>
+				<h2>Constructiewerk</h2>
+				<a class="nav" href="#">Terug naar boven</a>
+			</div>
+			<div class="content columns-1">
                             <p>Voscon BV heeft een werkplaats tot zijn beschikking met een werkoppervlakte van 1.000
                             m<sup>2</sup> en diverse bovenloopkranen tot max. 5 ton. De werkplaats is dusdanig ingericht
                             dat wij kleine tot middelgrote constructies van uiteenlopende materialen kunnen
@@ -171,9 +171,9 @@
                             werkzaamheden.
 
                         </div>
-					</div>
-					<div class="item rounded-bottom background-6 inverted" style="min-height: 450px;">
-						<div class="content columns-0-1">
+		</div>
+		<div class="item rounded-bottom background-6 inverted" style="min-height: 450px;">
+			<div class="content columns-0-1">
                             <div class="header">
                                 <a name="modificeren"></a>
                                 <h2>Modificeren</h2>
@@ -183,7 +183,7 @@
                             verspanerij modificeren volgens uw opgave. Desgevraagd maken wij hier eerst een tekening
                             voor. Voorbeelden van modificaties die hebben plaats gevonden:</p>
 
-                            <ul class="no-margin">
+                            <ul class="no-margin half-width">
                                 <li>Reviseren van pompen</li>
                                 <li>Bewerken van flenzen</li>
                                 <li>Aanpassen van bestaande containers</li>
