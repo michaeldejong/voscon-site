@@ -59,6 +59,15 @@
                                     </div>
                                 </a>
                             </div>
+                            <div class="project-bar">
+                                <a href="/projecten/toegangsluik/“>
+                                    <div class="project-item" style="background-image: url(/projecten/toegangsluik.jpg);">
+                                        <div class="project-item-overlay">
+                                            <div class="project-item-title">Toegangsluik met valrooster</div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                     </div>
 				</div>
