@@ -67,6 +67,13 @@
                                         </div>
                                     </div>
                                 </a>
+                                <a href="/projecten/montage-en-transport-frame/" class="pull-right">
+                                    <div class="project-item" style="background-image: url(/projecten/montage-en-transport-frame.jpg);">
+                                        <div class="project-item-overlay">
+                                            <div class="project-item-title">Montage en transport frame</div>
+                                        </div>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                     </div>
