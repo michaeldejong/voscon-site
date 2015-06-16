@@ -1,80 +1,88 @@
+<?php
+	if (isset($_POST['submit'])) {
+		$email = htmlspecialchars($_POST['email']);
+		$phone = htmlspecialchars($_POST['phone']);
+		$body = htmlspecialchars($_POST['body']);
+
+		$params = null;
+		if (strpos($email, '@') !== false) {
+			$params = "-f " . $email;
+		}
+
+		if (mail("michaelj@minicom.nl", "Nieuw bericht via voscon.nl",
+			"E-mail: " . $email . "\nTelefoonnummer: " . $phone . "\n\n" . $body, null, $params)) {
+
+			$success = "Het bericht is verstuurd. We nemen zo snel mogelijk contact met u op!";
+		}
+		else {
+			$error = "Het bericht kon helaas niet worden verstuurd. Neem voor vragen alstublieft contact op met ons per telefoon.";
+		}
+	}
+?>
 <?php require("../includes/header.php"); ?>
 <?php require("../includes/menu.php"); ?>
 			<div class="container">
 				<div id="sub-menu-bar">
 					<a class="nav" href="/contact/#contact-opnemen">Contact opnemen</a>
+					<a class="nav" href="/contact/#contactformulier">Contactformulier</a>
 					<a class="nav" href="/contact/#routebeschrijving">Routebeschrijving</a>
 				</div>
+<?php if (isset($error)) { ?>
+				<div class="alert alert-danger"><?php echo $error; ?></div>
+<?php } if (isset($success)) { ?>
+				<div class="alert alert-success"><?php echo $success; ?></div>
+<?php } ?>
 				<div id="items">
-					<div class="item rounded-top background-4" style="min-height: 840px;">
+					<div class="item rounded-top background-4" style="min-height: 680px;">
 						<div class="header">
 							<a name="contact-opnemen"></a>
 							<h2>Contact opnemen</h2>
 							<a class="nav" href="#">Terug naar boven</a>
 						</div>
-						<div class="content columns-1">
-                            <table class="table table-condensed">
-                                <thead>
-                                    <tr>
-                                        <td style="width: 38%;">M. van de Merwe</td>
-                                        <td style="width: 38%;">G. Poot</td>
-                                        <td style="width: 24%;">R. van de Merwe</td>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Directie, verkoop en productie</td>
-                                        <td>Directie, service en montage</td>
-                                        <td>Werkvoorbereiding en inkoop</td>
-                                    </tr>
-                                    <tr>
-                                        <td>tel: 010-4451111</td>
-                                        <td>tel: 010-4451111</td>
-                                        <td>tel: 010-4451114</td>
-                                    </tr>
-                                    <tr>
-                                        <td>fax: 010-4451118</td>
-                                        <td>fax: 010-4451118</td>
-                                        <td>fax: 010-4451118</td>
-                                    </tr>
-                                    <tr>
-                                        <td><a href="mailto:mvande.merwe@voscon.nl">mvande.merwe@voscon.nl</a></td>
-                                        <td><a href="mailto:g.poot@voscon.nl">g.poot@voscon.nl</a></td>
-                                        <td><a href="mailto:rvande.merwe@voscon.nl">rvande.merwe@voscon.nl</a></td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                            <table class="table table-condensed">
-                                <thead>
-                                    <tr>
-                                        <td style="width: 38%;">D.L. de Kievit</td>
-                                        <td style="width: 38%;">G. Bal & G. van Hagen</td>
-                                        <td style="width: 24%;">M. Ridderhof</td>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Werkvoorbereiding en las co&ouml;rdinator</td>
-                                        <td>Engineering</td>
-                                        <td>Financi&euml;le administratie</td>
-                                    </tr>
-                                    <tr>
-                                        <td>tel: 010-4451115</td>
-                                        <td>tel: 010-4451149</td>
-                                        <td>tel: 010-4451111</td>
-                                    </tr>
-                                    <tr>
-                                        <td>fax: 010-4451118</td>
-                                        <td>fax: 010-4451118</td>
-                                        <td>fax: 010-4451118</td>
-                                    </tr>
-                                    <tr>
-                                        <td><a href="mailto:dlde.kievit@voscon.nl">dlde.kievit@voscon.nl</a></td>
-                                        <td><a href="mailto:tekenkamer@voscon.nl">tekenkamer@voscon.nl</a></td>
-                                        <td><a href="mailto:m.ridderhof@voscon.nl">m.ridderhof@voscon.nl</a></td>
-                                    </tr>
-                                </tbody>
-                            </table>
+						<div class="content columns-1-0">
+							<table class="table table-condensed">
+								<thead>
+									<tr><td>Voscon B.V.</td></tr>
+								</thead>
+								<tbody>
+									<tr><td>Energieweg 25</td></tr>
+									<tr><td>3133 EC, Vlaardingen</td></tr>
+									<tr><td></td></tr>
+									<tr><td>Fax: 010-4451118</td></tr>
+									<tr><td>Tel: 010-4451111</td></tr>
+									<tr><td>E-mail: info@voscon.nl</td></tr>
+								</tbody>
+							</table>
+						</div>
+					</div>
+					<div class="item">
+						<div class="header">
+							<a name="contactformulier"></a>
+							<h2>Contactformulier</h2>
+							<a class="nav" href="#">Terug naar boven</a>
+						</div>
+						<div class="content">
+							<form method="post">
+								<div class="control-group">
+									<label for="email">E-mailadres</label>
+									<div class="controls">
+										<input type="email" class="form-control" name="email" id="email" placeholder="E-mailadres">
+									</div>
+								</div>
+								<div class="control-group">
+									<label for="phone">Telefoonnummer</label>
+									<div class="controls">
+										<input type="text" class="form-control" name="phone" id="phone" placeholder="Telefoonnummer">
+									</div>
+								</div>
+								<div class="control-group">
+									<label for="body">Bericht</label>
+									<div class="controls">
+										<textarea class="form-control" name="body" id="body"></textarea>
+									</div>
+								</div>
+								<button type="submit" class="btn" name="submit">Versturen</button>
+							</form>
 						</div>
 					</div>
 					<div class="item">
@@ -90,4 +98,3 @@
 				</div>
 			</div>
 <?php require("../includes/footer.php"); ?>
-		

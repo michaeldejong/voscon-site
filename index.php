@@ -3,6 +3,9 @@
 		<div class="container">
 			<div id="menu-image-slider" class="image-slider">
 				<div class="slider-container">
+					<div class="layover">
+						<img src="/img/certificates.png" />
+					</div>
 					<div class="images">
 						<img class="active" src="/img/main-slider-1.jpg" />
                         <img class="inactive" src="/img/main-slider-4.jpg" />
@@ -26,9 +29,9 @@
 				</div>
 			</div>
 			<div id="items">
-				<div class="item rounded background-4">
+				<div class="item rounded background-4" style="min-height: 875px;">
 					<div class="header">
-						<a name="title1"></a>
+						<a name="main"></a>
 						<h2>Voscon V.B.S. B.V.</h2>
 						<a class="nav" href="#">Terug naar boven</a>
 					</div>
@@ -44,9 +47,22 @@
                             u &eacute;&eacute;n aanspreekpunt.</p>
                         <p>Voscon BV staat voor kwaliteit, service en flexibiliteit van maatwerk op een persoonlijke
                             manier, gericht op de individuele klant met haar specifieke wensen.</p>
+						<div class="news">
+							<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/vosconbv" data-widget-id="610885671432155136"></a>
+							<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+						</div>
+					</div>
+				</div>
+				<div class="item rounded">
+					<div class="header">
+						<a name="award"></a>
+						<h2>OOM Award</h2>
+						<a class="nav" href="#">Terug naar boven</a>
+					</div>
+					<div class="content columns-1">
+						<iframe width="828" height="496" src="https://www.youtube.com/embed/tV8M2AwUMQ4" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>
 		</div>
 <?php require("includes/footer.php"); ?>
-		

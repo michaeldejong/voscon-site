@@ -1,4 +1,3 @@
-
 @font-face {
 	font-family: 'YanoneKaffeesatz-Regular';
 	src: url('YanoneKaffeesatz-Regular.ttf') format('truetype');
@@ -23,7 +22,7 @@ body {
 	margin-top: -17px;
 	margin-bottom: 164px;
 	padding: 0px !important;
-	
+
 	word-wrap: break-word;
 	line-height: 22px;
 	font-family: 'Roboto-Regular', verdana, sans-sherif;
@@ -41,22 +40,51 @@ h2 {
 }
 
 table {
-    width: 100%;
-    margin-top: 50px;
+	width: 100%;
+	margin-top: 50px;
 }
 
 table td {
-    border: 0px !important;
+	border: 0px !important;
 }
 
 table thead td {
-    border-bottom: 1px solid #ccc !important;
+	border-bottom: 1px solid #ccc !important;
 }
 
 table thead td {
-    font-weight: bold;
-    font-size: 21px;
-    font-family: 'YanoneKaffeesatz-Regular';
+	font-weight: bold;
+	font-size: 21px;
+	font-family: 'YanoneKaffeesatz-Regular';
+}
+
+input[type="text"], input[type="email"] {
+	width: 100%;
+}
+
+textarea {
+	width: 100%;
+	height: 200px;
+}
+
+.alert {
+	margin-top: 10px;
+	text-shadow: none;
+	border-width: 1px 1px 3px 1px;
+	padding: 20px 30px;
+	font-size: 16px;
+}
+
+.alert-success {
+	border-color: #227d22;
+	background-color: #449d44;
+	color: #fff;
+}
+
+.alert-danger {
+	border-color: #b9332f;
+	background-color: #d9534f;
+	color: #fff;
 }
 
 #content {
@@ -69,7 +97,7 @@ table thead td {
 
 .container {
 	max-width: 942px;
-    min-width: 942px;
+	min-width: 942px;
 }
 
 #footer {
@@ -90,7 +118,7 @@ table thead td {
 }
 
 #footer .columns .container {
-    height: 380px;
+	height: 380px;
 	column-count: 4;
 	-moz-column-count: 4;
 	-webkit-column-count: 4;
@@ -100,11 +128,11 @@ table thead td {
 }
 
 #footer .columns .container .short {
-    height: 100px;
+	height: 100px;
 }
 
 #footer .columns .container .tall {
-    height: 250px;
+	height: 250px;
 }
 
 #footer .container div {
@@ -147,36 +175,60 @@ table thead td {
 	margin-left: 8px;
 	display: inline-block;
 	background-image: url(/img/ribbon.png);
-	z-index: 2; position: absolute;
+	z-index: 2;
+	position: absolute;
+}
+
+#top-menu .menu-container {
+	margin-left: 145px;
 }
 
 #top-menu #menu-bar {
 	font-size: 12px;
-	padding: 29px 14px 17px 145px;
+	margin: 29px 0 17px 0;
 	vertical-align: top;
 	display: inline-block;
+	width: 100%;
 	height: 40px;
 }
 
-#top-menu #menu-bar a {
-	padding: 3px 6px 3px 6px;
+#top-menu #menu-bar .menu-btn {
+	padding: 3px 5px 3px 5px;
 	display: inline-block;
 	text-transform: uppercase;
 	background-color: #f8f8f8;
-	margin-right: 6px;
+	margin-right: 4px;
 	color: black;
-	
+
 	border: 1px solid #ddd;
 	border-bottom: 2px solid #ddd;
 	vertical-align: bottom;
-	
-    -moz-border-radius: 4px;
-    -webkit-border-radius: 4px;
-    -khtml-border-radius: 4px;
-    border-radius: 4px;
+
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-khtml-border-radius: 4px;
+	border-radius: 4px;
 }
 
-#top-menu #menu-bar a:hover {
+#top-menu #menu-bar .logo-btn {
+	padding: 0px 5px 0px 5px;
+	display: inline-block;
+	float: right;
+
+	opacity: 0.4;
+	filter: alpha(opacity=40) grayscale(100%);
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+}
+
+#top-menu #menu-bar .logo-btn:hover {
+	opacity: 1.0;
+	filter: none;
+	-webkit-filter: none;
+	-moz-filter: none;
+}
+
+#top-menu #menu-bar .menu-btn:hover {
 	border: 1px solid #ccc;
 	border-top: 2px solid #ccc;
 	background-color: #e8e8e8;
@@ -195,17 +247,17 @@ table thead td {
 	font-size: 11px;
 	text-transform: uppercase;
 	background-color: #c0bfbe;
-	margin-right: 6px;
+	margin-right: 4px;
 	color: black;
-	
+
 	border: 1px solid #908e8d;
 	border-bottom: 2px solid #908e8d;
 	vertical-align: bottom;
-	
-    -moz-border-radius: 4px;
-    -webkit-border-radius: 4px;
-    -khtml-border-radius: 4px;
-    border-radius: 4px;
+
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-khtml-border-radius: 4px;
+	border-radius: 4px;
 }
 
 #sub-menu-bar a:hover {
@@ -214,35 +266,53 @@ table thead td {
 }
 
 #menu-image-slider {
-    margin-top: 50px;
+	margin-top: 50px;
 	margin-bottom: 32px;
 }
 
 #menu-image-slider .slider-container .images img {
-    -moz-border-bottom-left-radius: 6px;
-    -webkit-border-bottom-left-radius: 6px;
-    -khtml-border-bottom-left-radius: 6px;
-    border-bottom-left-radius: 6px;
-    
-    -moz-border-bottom-right-radius: 6px;
-    -webkit-border-bottom-right-radius: 6px;
-    -khtml-border-bottom-right-radius: 6px;
-    border-bottom-right-radius: 6px;
-    
-	-webkit-box-shadow: 0px 0px 9px 2px rgba(128, 128, 128, 0.4);
-	box-shadow: 0px 0px 9px 2px rgba(128, 128, 128, 0.4);
-    
-	border: 1px solid #767675;
-	border-top: 0px;
+	-moz-border-bottom-left-radius: 6px;
+	-webkit-border-bottom-left-radius: 6px;
+	-khtml-border-bottom-left-radius: 6px;
+	border-bottom-left-radius: 6px;
+
+	-moz-border-bottom-right-radius: 6px;
+	-webkit-border-bottom-right-radius: 6px;
+	-khtml-border-bottom-right-radius: 6px;
+	border-bottom-right-radius: 6px;
 }
 
 .image-slider .slider-container .images {
-    position: relative;
-    max-height: 460px;
+	position: relative;
+	max-height: 460px;
+}
+
+.image-slider .slider-container .layover {
+	position: relative;
+	max-height: 460px;
+}
+
+.image-slider .slider-container .layover img {
+	z-index: 3;
+	position: absolute;
+	right: 20px;
+	top: 40px;
+
+	width: 211px;
+	height: 100px;
+	border: 0;
 }
 
 .image-slider .slider-container .images img {
-    position: absolute;
+	position: absolute;
+}
+
+.image-slider .slider-container .images img.active {
+	-webkit-box-shadow: 0px 0px 9px 2px rgba(128, 128, 128, 0.4);
+	box-shadow: 0px 0px 9px 2px rgba(128, 128, 128, 0.4);
+
+	border: 1px solid #767675;
+	border-top: 0px;
 }
 
 .image-slider .slider-container .images img.inactive {
@@ -271,31 +341,31 @@ table thead td {
 
 .image-slider .slider-container .controls i.inactive {
 	opacity: 0.4;
-	filter:alpha(opacity=40);
+	filter: alpha(opacity=40);
 	background-image: url(/img/slider-dot-inactive.png);
 	background-repeat: no-repeat;
 }
 
 .image-slider .slider-container .controls i.inactive:hover {
 	opacity: 0.7;
-	filter:alpha(opacity=70);
+	filter: alpha(opacity=70);
 }
 
 .image-list img {
-    margin-bottom: 16px;
+	margin-bottom: 16px;
 }
 
 .image-list img:last-child {
-    margin-bottom: 0px;
+	margin-bottom: 0px;
 }
 
 .project-image {
-    height: 620px;
-    width: 100%;
+	height: 620px;
+	width: 100%;
 }
 
 .project-image .slider-container .controls i {
-    margin-top: 56% !important;
+	margin-top: 56% !important;
 }
 
 #items {
@@ -303,40 +373,40 @@ table thead td {
 	border: 1px solid #9c9b9a;
 	-webkit-box-shadow: 0px 0px 9px 2px rgba(128, 128, 128, 0.4);
 	box-shadow: 0px 0px 9px 2px rgba(128, 128, 128, 0.4);
-	
-    -moz-border-radius: 6px;
-    -webkit-border-radius: 6px;
-    -khtml-border-radius: 6px;
-    border-radius: 6px;
+
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-khtml-border-radius: 6px;
+	border-radius: 6px;
 }
 
 .rounded {
-    -moz-border-radius: 6px;
-    -webkit-border-radius: 6px;
-    -khtml-border-radius: 6px;
-    border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-khtml-border-radius: 6px;
+	border-radius: 6px;
 }
 
 .rounded-bottom {
-    -moz-border-radius-bottomleft: 6px;
-    -moz-border-radius-bottomright: 6px;
-    -webkit-border-bottom-left-radius: 6px;
-    -webkit-border-bottom-right-radius: 6px;
-    -khtml-border-radius-bottomleft: 6px;
-    -khtml-border-radius-bottomright: 6px;
-    border-radius-bottomleft: 6px;
-    border-radius-bottomright: 6px;
+	-moz-border-radius-bottomleft: 6px;
+	-moz-border-radius-bottomright: 6px;
+	-webkit-border-bottom-left-radius: 6px;
+	-webkit-border-bottom-right-radius: 6px;
+	-khtml-border-radius-bottomleft: 6px;
+	-khtml-border-radius-bottomright: 6px;
+	border-radius-bottomleft: 6px;
+	border-radius-bottomright: 6px;
 }
 
 .rounded-top {
-    -moz-border-radius-topleft: 6px;
-    -moz-border-radius-topright: 6px;
-    -webkit-border-top-left-radius: 6px;
-    -webkit-border-top-right-radius: 6px;
-    -khtml-border-radius-topleft: 6px;
-    -khtml-border-radius-topright: 6px;
-    border-radius-topleft: 6px;
-    border-radius-topright: 6px;
+	-moz-border-radius-topleft: 6px;
+	-moz-border-radius-topright: 6px;
+	-webkit-border-top-left-radius: 6px;
+	-webkit-border-top-right-radius: 6px;
+	-khtml-border-radius-topleft: 6px;
+	-khtml-border-radius-topright: 6px;
+	border-radius-topleft: 6px;
+	border-radius-topright: 6px;
 }
 
 .item {
@@ -352,7 +422,7 @@ table thead td {
 }
 
 .item.inverted:not(:last-child) {
-    border-bottom: 1px solid #666;
+	border-bottom: 1px solid #666;
 }
 
 .item.inverted a {
@@ -384,98 +454,105 @@ table thead td {
 }
 
 .item.background-3 {
-    background-color: #fff;
-    background-image: url(/img/back-3.jpg);
-    background-position: center bottom;
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding-bottom: 380px;
+	background-color: #fff;
+	background-image: url(/img/back-3.jpg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding-bottom: 380px;
 }
 
 .item.background-4 {
-    background-color: #fff;
-    background-image: url(/img/back-4.jpg);
-    background-position: center bottom;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 700px;
+	background-color: #fff;
+	background-image: url(/img/back-4.jpg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 700px;
 }
 
 .item.background-5 {
-    background-image: url(/img/back-5.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
+	background-image: url(/img/back-5.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .item.background-6 {
-    background-image: url(/img/back-6.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
+	background-image: url(/img/back-6.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .item.background-7 {
-    background-image: url(/img/back-7.jpg);
-    background-position: center bottom;
-    background-repeat: no-repeat;
-    background-size: cover;
+	background-image: url(/img/back-7.jpg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .item.background-8 {
-    background-image: url(/img/back-8.jpg);
-    background-position: center bottom;
-    background-repeat: no-repeat;
-    background-color: white;
+	background-image: url(/img/back-8.jpg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-color: white;
 }
 
 .item.background-9 {
-    background-image: url(/img/back-9.jpg);
-    background-position: center bottom;
-    background-repeat: no-repeat;
-    background-color: white;
+	background-image: url(/img/back-9.jpg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-color: white;
 }
 
 .item.background-10 {
-    background-image: url(/img/back-10.jpg);
-    background-position: center bottom;
-    background-repeat: no-repeat;
-    background-color: white;
+	background-image: url(/img/back-10.jpg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-color: white;
 }
 
 .item.background-11 {
-    background-image: url(/img/back-11.jpg);
-    background-position: center bottom;
-    background-repeat: no-repeat;
-    background-color: #33588b;
+	background-image: url(/img/back-11.jpg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-color: #33588b;
 }
 
 .item.background-12 {
-    background-image: url(/img/back-12.jpg);
-    background-position: center bottom;
-    background-repeat: no-repeat;
-    background-color: white;
+	background-image: url(/img/back-12.jpg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-color: white;
 }
 
 .item.background-13 {
-    background-image: url(/img/back-13.jpg);
-    background-position: center bottom;
-    background-repeat: no-repeat;
-    background-color: white;
+	background-image: url(/img/back-13.jpg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-color: white;
 }
 
 .item.background-14 {
-    background-image: url(/img/back-14.jpg);
-    background-position: center bottom;
-    background-repeat: no-repeat;
-    background-color: white;
+	background-image: url(/img/back-14.jpg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-color: white;
 }
 
 .item.background-15 {
-    background-image: url(/img/back-15.jpg);
-    background-position: center bottom;
-    background-repeat: no-repeat;
-    background-color: white;
+	background-image: url(/img/back-15.jpg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-color: white;
+}
+
+.item.background-16 {
+	background-image: url(/img/back-16.jpg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-color: white;
 }
 
 .item .header-0-1-0 {
@@ -535,7 +612,7 @@ table thead td {
 }
 
 .item .columns-0-1 {
-    margin-left: 50%;
+	margin-left: 50%;
 	text-align: justify;
 	width: 50%;
 }
@@ -547,47 +624,50 @@ table thead td {
 }
 
 .item h1, .item h2, .item h3 {
-    margin-top: 20px;
+	margin-top: 20px;
 }
 
 .item ul.half-width {
-    width: 360px;
+	width: 360px;
 }
 
 .item ul li {
-    line-height: 20px;
-    margin-bottom: 20px;
+	line-height: 20px;
+	margin-bottom: 20px;
 }
 
 .item ul li ul li, .item ul.no-margin li {
-    margin: 0px;
+	margin: 0px;
 }
 
 .item p {
-    margin-bottom: 25px;
+	margin-bottom: 25px;
 }
 
 .project-bar:not(:first-child) {
-    margin-top: 38px;
+	margin-top: 38px;
 }
 
 .project-item {
-    width: 395px;
-    height: 247px;
-    display: inline-block;
+	width: 395px;
+	height: 247px;
+	display: inline-block;
 }
 
 .project-item-overlay {
-    width: 395px;
-    height: 62px;
-    display: block;
-    margin-top: 185px;
-    background-color: rgba(255, 255, 255, 0.72);
+	width: 395px;
+	height: 62px;
+	display: block;
+	margin-top: 185px;
+	background-color: rgba(255, 255, 255, 0.72);
 }
 
 .project-item-title {
-    margin: 20px;
-    font-size: 24px;
-    font-weight: bold;
-    display: inline-block;
+	margin: 20px;
+	font-size: 24px;
+	font-weight: bold;
+	display: inline-block;
+}
+
+.news {
 }

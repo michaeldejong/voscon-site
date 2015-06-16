@@ -25,19 +25,21 @@
 					</div>
 					<div class="tall">
 						<ul>
+							<li><a class="nav" href="/certificatie/#">Certificatie</a></li>
+                            <li><a class="nav" href="/certificatie/#iso9001">ISO-9001</a></li>
+                            <li><a class="nav" href="/certificatie/#vca">VCA*</a></li>
+							<li><a class="nav" href="/certificatie/#en1090">EN-1090-1</a></li>
+                            <li><a class="nav" href="/certificatie/#leerbedrijf">Leerbedrijf</a></li>
+						</ul>
+					</div>
+					<div class="short">
+						<ul>
 							<li><a class="nav" href="/service/#">Service</a></li>
 							<li><a class="nav" href="/service/#service">Service</a></li>
 							<li><a class="nav" href="/service/#onderhoudscontracten">Onderhouds-contracten</a></li>
 						</ul>
 					</div>
-					<div class="short">
-						<ul>
-							<li><a class="nav" href="/veiligheid/#">Veiligheid</a></li>
-                            <li><a class="nav" href="/veiligheid/#iso9001">ISO-9001</a></li>
-                            <li><a class="nav" href="/veiligheid/#vca">VCA*</a></li>
-						</ul>
-					</div>
-                    <div class="tall">
+					<div class="tall">
                         <ul>
                             <li><a class="nav" href="/projecten/#">Projecten</a></li>
                             <li><a class="nav" href="/projecten/m-en-e-huizen">M- en E-huizen</a></li>
@@ -48,7 +50,7 @@
                             <li><a class="nav" href="/projecten/buitentrap">Buitentrap</a></li>
                         </ul>
                     </div>
-                    <div class="short">
+					<div class="short">
                         <ul>
                             <li><a class="nav" href="/vacatures/#">Vacatures</a></li>
                             <li><a class="nav" href="/vacatures/#open-sollicitaties">Open sollicitaties</a></li>
@@ -58,6 +60,7 @@
 						<ul>
 							<li><a class="nav" href="/contact/#">Contact</a></li>
 							<li><a class="nav" href="/contact/#contact-opnemen">Contact opnemen</a></li>
+							<li><a class="nav" href="/contact/#contactformulier">Contactformulier</a></li>
 							<li><a class="nav" href="/contact/#routebeschrijving">Routebeschrijving</a></li>
 						</ul>
 					</div>
