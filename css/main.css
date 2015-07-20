@@ -631,17 +631,18 @@ textarea {
 	width: 360px;
 }
 
+.item ul {
+	margin-bottom: 20px;
+}
+
 .item ul li {
 	line-height: 20px;
-	margin-bottom: 20px;
+	margin-top: 4px;
+	margin-bottom: 4px;
 }
 
 .item ul li ul li, .item ul.no-margin li {
 	margin: 0px;
-}
-
-.item p {
-	margin-bottom: 25px;
 }
 
 .project-bar:not(:first-child) {

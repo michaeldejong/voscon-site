@@ -53,16 +53,6 @@
 						</div>
 					</div>
 				</div>
-				<div class="item rounded">
-					<div class="header">
-						<a name="award"></a>
-						<h2>OOM Award</h2>
-						<a class="nav" href="#">Terug naar boven</a>
-					</div>
-					<div class="content columns-1">
-						<iframe width="828" height="496" src="https://www.youtube.com/embed/tV8M2AwUMQ4" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div>
 			</div>
 		</div>
 <?php require("includes/footer.php"); ?>

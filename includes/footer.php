@@ -30,6 +30,7 @@
                             <li><a class="nav" href="/certificatie/#vca">VCA*</a></li>
 							<li><a class="nav" href="/certificatie/#en1090">EN-1090-1</a></li>
                             <li><a class="nav" href="/certificatie/#leerbedrijf">Leerbedrijf</a></li>
+                            <li><a class="nav" href="/certificatie/#oom-award">OOM Award 2014</a></li>
 						</ul>
 					</div>
 					<div class="short">
@@ -53,6 +54,7 @@
 					<div class="short">
                         <ul>
                             <li><a class="nav" href="/vacatures/#">Vacatures</a></li>
+                            <li><a class="nav" href="/vacatures/#vacature-1">Allround constructie bankwerker</a></li>
                             <li><a class="nav" href="/vacatures/#open-sollicitaties">Open sollicitaties</a></li>
                         </ul>
                     </div>
