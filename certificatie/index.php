@@ -6,6 +6,7 @@
                     <a class="nav" href="/certificatie/#vca">VCA*</a>
                     <a class="nav" href="/certificatie/#en1090">EN-1090-1</a>
                     <a class="nav" href="/certificatie/#leerbedrijf">Leerbedrijf</a>
+                    <a class="nav" href="/certificatie/#oom-award">OOM Award 2014</a>
                 </div>
                 <div id="items">
                     <div class="item background-15 rounded-top" style="min-height: 750px; padding-bottom: 150px;">
