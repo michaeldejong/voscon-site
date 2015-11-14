@@ -23,7 +23,7 @@
                             in het bezit bent van een onderhoudscontract (ook buiten werktijd!)
                         </div>
 					</div>
-					<div class="item background-13 rounded-bottom" style="min-height: 760px;">
+					<div class="item background-13 rounded-bottom" style="min-height: 820px;">
 						<div class="header">
 							<a name="onderhoudscontracten"></a>
 							<h2>Onderhoudscontracten</h2>
