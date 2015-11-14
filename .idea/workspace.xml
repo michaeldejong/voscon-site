@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adbb7198-0e1b-4fb2-8dde-895d6c18a784" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/voscon.nl/contact/index.php" afterPath="$PROJECT_DIR$/voscon.nl/contact/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/euromet.nl/engineering/index.php" afterPath="$PROJECT_DIR$/euromet.nl/engineering/index.php" />
     </list>
     <ignored path="voscon.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -110,14 +110,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/voscon.nl/contact/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4527864">
-              <caret line="39" column="65" selection-start-line="39" selection-start-column="65" selection-end-line="39" selection-end-column="65" />
+            <state vertical-scroll-proportion="-1.875">
+              <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/euromet.nl/engineering/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.25541794">
+              <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -136,16 +146,6 @@
         <entry file="file://$PROJECT_DIR$/euromet.nl/img/logo.png">
           <provider selected="true" editor-type-id="images">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/euromet.nl/projecten/filtertoren/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -200,7 +200,6 @@
         <option value="$PROJECT_DIR$/voscon.nl/vacatures/index.php" />
         <option value="$PROJECT_DIR$/euromet.nl/index.php" />
         <option value="$PROJECT_DIR$/euromet.nl/includes/menu.php" />
-        <option value="$PROJECT_DIR$/euromet.nl/engineering/index.php" />
         <option value="$PROJECT_DIR$/euromet.nl/productie/index.php" />
         <option value="$PROJECT_DIR$/euromet.nl/montage/index.php" />
         <option value="$PROJECT_DIR$/euromet.nl/certificatie/index.php" />
@@ -219,6 +218,7 @@
         <option value="$PROJECT_DIR$/voscon.nl/index.php" />
         <option value="$PROJECT_DIR$/voscon.nl/service/index.php" />
         <option value="$PROJECT_DIR$/voscon.nl/contact/index.php" />
+        <option value="$PROJECT_DIR$/euromet.nl/engineering/index.php" />
       </list>
     </option>
   </component>
@@ -365,43 +365,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="voscon-site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="voscon-site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="euromet.nl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="voscon-site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="voscon-site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="euromet.nl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contact" />
+              <option name="myItemId" value="engineering" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -431,19 +395,19 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/voscon.nl/js" />
-      <recent name="$PROJECT_DIR$/voscon.nl/img" />
-      <recent name="$PROJECT_DIR$/voscon.nl/files" />
-      <recent name="$PROJECT_DIR$/voscon.nl" />
-      <recent name="$PROJECT_DIR$/projecten" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/euromet.nl/projecten/spiltrap" />
       <recent name="$PROJECT_DIR$/euromet.nl/projecten/ponton" />
       <recent name="$PROJECT_DIR$/euromet.nl/projecten/filtertoren" />
       <recent name="$PROJECT_DIR$/euromet.nl/projecten/filterkast" />
       <recent name="$PROJECT_DIR$/euromet.nl/projecten" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/voscon.nl/js" />
+      <recent name="$PROJECT_DIR$/voscon.nl/img" />
+      <recent name="$PROJECT_DIR$/voscon.nl/files" />
+      <recent name="$PROJECT_DIR$/voscon.nl" />
+      <recent name="$PROJECT_DIR$/projecten" />
     </key>
   </component>
   <component name="RunManager">
@@ -837,12 +801,12 @@
       <workItem from="1395168352233" duration="11782000" />
       <workItem from="1447503145872" duration="24000" />
       <workItem from="1447503185235" duration="5624000" />
-      <workItem from="1447513516598" duration="214000" />
+      <workItem from="1447513516598" duration="316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46623000" />
+    <option name="totallyTimeSpent" value="46725000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1098,13 +1062,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/euromet.nl/engineering/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375">
-          <caret line="15" column="91" selection-start-line="15" selection-start-column="91" selection-end-line="15" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/euromet.nl/productie/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.625">
@@ -1260,11 +1217,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/voscon.nl/contact/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4527864">
-          <caret line="39" column="65" selection-start-line="39" selection-start-column="65" selection-end-line="39" selection-end-column="65" />
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euromet.nl/engineering/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25541794">
+          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>

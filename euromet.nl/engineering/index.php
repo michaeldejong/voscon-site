@@ -20,7 +20,7 @@
                             we in staat uw project compleet vorm te geven en de precieze maatvoering en detaillering
                             aan te leveren. Bovendien waarborgt onze aanpak dat u goed het overzicht weet te houden,
                             hoe complex een project ook is. In het stadium van de detail engineering beperken we ons
-                            niet alleen tot het creëren van de optimale condities voor de bouw of verbouw. Euromet BV
+                            niet alleen tot het cre&euml;ren van de optimale condities voor de bouw of verbouw. Euromet BV
                             houdt ook al rekening met toekomstig onderhoud.
 
                             <div style="margin-top: 10px;">
