@@ -6,7 +6,7 @@
 					<a class="nav" href="/service/#onderhoudscontracten">Onderhoudscontracten</a>
 				</div>
 				<div id="items">
-					<div class="item background-12 rounded-top" style="min-height: 650px;">
+					<div class="item background-12 rounded-top" style="min-height: 720px;">
 						<div class="header">
 							<a name="service"></a>
 							<h2>Service</h2>
@@ -23,7 +23,7 @@
                             in het bezit bent van een onderhoudscontract (ook buiten werktijd!)
                         </div>
 					</div>
-					<div class="item background-13 rounded-bottom" style="min-height: 710px;">
+					<div class="item background-13 rounded-bottom" style="min-height: 760px;">
 						<div class="header">
 							<a name="onderhoudscontracten"></a>
 							<h2>Onderhoudscontracten</h2>
