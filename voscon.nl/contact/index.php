@@ -30,7 +30,7 @@
 				<div class="alert alert-success"><?php echo $success; ?></div>
 <?php } ?>
 				<div id="items">
-					<div class="item rounded-top background-4" style="min-height: 680px;">
+					<div class="item rounded-top background-4" style="min-height: 880px;">
 						<div class="header">
 							<a name="contact-opnemen"></a>
 							<h2>Contact opnemen</h2>
