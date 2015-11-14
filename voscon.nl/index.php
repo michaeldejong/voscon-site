@@ -29,7 +29,7 @@
 				</div>
 			</div>
 			<div id="items">
-				<div class="item rounded background-4" style="min-height: 875px;">
+				<div class="item rounded background-4" style="min-height: 1000px;">
 					<div class="header">
 						<a name="main"></a>
 						<h2>Voscon V.B.S. B.V.</h2>

@@ -2,272 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adbb7198-0e1b-4fb2-8dde-895d6c18a784" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/files/iso-certificaat.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/files/vca-certificaat.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/img/iso-certificaat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/img/sbb-beeldmerk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/img/vca-certificaat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/css/Molengo-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/css/Orienta-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/css/PathwayGothicOne-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/css/Roboto-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/css/TitilliumText.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/css/YanoneKaffeesatz-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/css/YanoneKaffeesatz-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/files/ECABO.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/files/en1090-certificaat.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/files/en1090-dop.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/files/iso-certificaat.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/files/vacature-3d-tekenaar.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/files/vacature-allround-constructie-bankwerker.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/files/vca-certificaat.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/back-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/certificates.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/ecabo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/en1090-certificaat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/en1090-dop.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/euromet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/kenteq.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/main-slider-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/main-slider-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/main-slider-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/main-slider-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/main-slider-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/main-slider-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/main-slider-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/main-slider-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/pdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/play-icon-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/play-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/ribbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/sbb-beeldmerk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/slider-dot-active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/slider-dot-inactive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/img/vacature.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/certificatie/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/includes/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/includes/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/js/jquery-1.11.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/projecten/filtertoren/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/projecten/ponton/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/projecten/spiltrap/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/euromet.nl/vacatures/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/.htaccess-old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/contact/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/engineering/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/includes/menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/js/jquery-1.11.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/js/navigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/js/slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/montage/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/productie/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/projecten/bekleding-wagonbelader/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/projecten/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voscon.nl/service/index.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-responsive.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files/KENTEQ1.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files/iso-certificaat.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files/vca-certificaat.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-1.7.2.min.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.htaccess-old" afterPath="$PROJECT_DIR$/euromet.nl/.htaccess-old" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/certificatie/index.php" afterPath="$PROJECT_DIR$/voscon.nl/certificatie/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/contact/index.php" afterPath="$PROJECT_DIR$/euromet.nl/contact/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/Molengo-Regular.ttf" afterPath="$PROJECT_DIR$/euromet.nl/css/Molengo-Regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/Orienta-Regular.ttf" afterPath="$PROJECT_DIR$/euromet.nl/css/Orienta-Regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/PathwayGothicOne-Regular.ttf" afterPath="$PROJECT_DIR$/euromet.nl/css/PathwayGothicOne-Regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/Roboto-Regular.ttf" afterPath="$PROJECT_DIR$/euromet.nl/css/Roboto-Regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/TitilliumText.otf" afterPath="$PROJECT_DIR$/euromet.nl/css/TitilliumText.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/YanoneKaffeesatz-Regular.ttf" afterPath="$PROJECT_DIR$/euromet.nl/css/YanoneKaffeesatz-Regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/YanoneKaffeesatz-Thin.ttf" afterPath="$PROJECT_DIR$/euromet.nl/css/YanoneKaffeesatz-Thin.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/voscon.nl/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/engineering/index.php" afterPath="$PROJECT_DIR$/euromet.nl/engineering/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/files/ECABO.pdf" afterPath="$PROJECT_DIR$/euromet.nl/files/ECABO.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/files/en1090-certificaat.pdf" afterPath="$PROJECT_DIR$/euromet.nl/files/en1090-certificaat.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/files/en1090-dop.pdf" afterPath="$PROJECT_DIR$/euromet.nl/files/en1090-dop.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/files/vacature-3d-tekenaar.pdf" afterPath="$PROJECT_DIR$/euromet.nl/files/vacature-3d-tekenaar.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/files/vacature-allround-constructie-bankwerker.pdf" afterPath="$PROJECT_DIR$/euromet.nl/files/vacature-allround-constructie-bankwerker.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/avatar.png" afterPath="$PROJECT_DIR$/euromet.nl/img/avatar.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-0.png" afterPath="$PROJECT_DIR$/euromet.nl/img/back-0.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-1.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/back-1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-10.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/back-10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-11.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/back-11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-12.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/back-12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-13.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/back-13.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-14.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/back-14.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-15.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/back-15.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-16.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/back-16.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-2.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/back-2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-3.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/back-3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-4.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/back-4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-5.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/back-5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-6.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/back-6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-7.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/back-7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-8.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/back-8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/back-9.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/back-9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/background.png" afterPath="$PROJECT_DIR$/euromet.nl/img/background.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/certificates.png" afterPath="$PROJECT_DIR$/euromet.nl/img/certificates.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/ecabo.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/ecabo.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/en1090-certificaat.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/en1090-certificaat.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/en1090-dop.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/en1090-dop.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/euromet.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/euromet.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/iso-certificaat.jpg" afterPath="$PROJECT_DIR$/voscon.nl/img/iso-certificaat.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/kenteq.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/kenteq.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="$PROJECT_DIR$/euromet.nl/img/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/main-slider-1.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/main-slider-1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/main-slider-2.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/main-slider-2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/main-slider-3.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/main-slider-3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/main-slider-4.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/main-slider-4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/main-slider-5.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/main-slider-5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/main-slider-6.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/main-slider-6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/main-slider-7.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/main-slider-7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/main-slider-8.jpg" afterPath="$PROJECT_DIR$/euromet.nl/img/main-slider-8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/pdf.png" afterPath="$PROJECT_DIR$/euromet.nl/img/pdf.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/play-icon-dark.png" afterPath="$PROJECT_DIR$/euromet.nl/img/play-icon-dark.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/play-icon.png" afterPath="$PROJECT_DIR$/euromet.nl/img/play-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/ribbon.png" afterPath="$PROJECT_DIR$/euromet.nl/img/ribbon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/slider-dot-active.png" afterPath="$PROJECT_DIR$/euromet.nl/img/slider-dot-active.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/slider-dot-inactive.png" afterPath="$PROJECT_DIR$/euromet.nl/img/slider-dot-inactive.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/vacature.png" afterPath="$PROJECT_DIR$/euromet.nl/img/vacature.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/vca-certificaat.jpg" afterPath="$PROJECT_DIR$/voscon.nl/img/vca-certificaat.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/includes/footer.php" afterPath="$PROJECT_DIR$/voscon.nl/includes/footer.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/includes/header.php" afterPath="$PROJECT_DIR$/voscon.nl/includes/header.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/includes/menu.php" afterPath="$PROJECT_DIR$/euromet.nl/includes/menu.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/euromet.nl/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/navigation.js" afterPath="$PROJECT_DIR$/euromet.nl/js/navigation.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/slider.js" afterPath="$PROJECT_DIR$/euromet.nl/js/slider.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/montage/index.php" afterPath="$PROJECT_DIR$/euromet.nl/montage/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/productie/index.php" afterPath="$PROJECT_DIR$/euromet.nl/productie/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/bekleding-wagonbelader.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/bekleding-wagonbelader.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/bekleding-wagonbelader/CIMG0561.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/bekleding-wagonbelader/CIMG0561.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/bekleding-wagonbelader/CIMG0573.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/bekleding-wagonbelader/CIMG0573.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/bekleding-wagonbelader/CIMG0574.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/bekleding-wagonbelader/CIMG0574.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/bekleding-wagonbelader/CIMG0575.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/bekleding-wagonbelader/CIMG0575.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/bekleding-wagonbelader/CIMG0578.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/bekleding-wagonbelader/CIMG0578.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/bekleding-wagonbelader/CIMG0580.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/bekleding-wagonbelader/CIMG0580.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/bekleding-wagonbelader/CIMG0581.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/bekleding-wagonbelader/CIMG0581.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/bekleding-wagonbelader/CIMG0582.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/bekleding-wagonbelader/CIMG0582.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/bekleding-wagonbelader/index.php" afterPath="$PROJECT_DIR$/euromet.nl/projecten/filterkast/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/buitentrap.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/buitentrap.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/buitentrap/010.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/buitentrap/010.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/buitentrap/011.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/buitentrap/011.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/buitentrap/012.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/buitentrap/012.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/buitentrap/014.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/buitentrap/014.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/buitentrap/024.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/buitentrap/024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/buitentrap/035.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/buitentrap/035.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/buitentrap/038.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/buitentrap/038.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/buitentrap/index.php" afterPath="$PROJECT_DIR$/voscon.nl/projecten/buitentrap/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/fabrieksuitbreiding.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/fabrieksuitbreiding.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/fabrieksuitbreiding/CIMG0507.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/fabrieksuitbreiding/CIMG0507.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/fabrieksuitbreiding/CIMG0508.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/fabrieksuitbreiding/CIMG0508.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/fabrieksuitbreiding/CIMG0554.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/fabrieksuitbreiding/CIMG0554.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/fabrieksuitbreiding/CIMG0555.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/fabrieksuitbreiding/CIMG0555.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/fabrieksuitbreiding/CIMG0556.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/fabrieksuitbreiding/CIMG0556.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/fabrieksuitbreiding/CIMG0564.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/fabrieksuitbreiding/CIMG0564.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/fabrieksuitbreiding/CIMG0565.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/fabrieksuitbreiding/CIMG0565.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/fabrieksuitbreiding/CIMG0566.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/fabrieksuitbreiding/CIMG0566.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/fabrieksuitbreiding/CIMG0567.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/fabrieksuitbreiding/CIMG0567.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/fabrieksuitbreiding/index.php" afterPath="$PROJECT_DIR$/voscon.nl/projecten/fabrieksuitbreiding/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/index.php" afterPath="$PROJECT_DIR$/euromet.nl/projecten/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/IMG_4058.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/IMG_4058.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/P1000575.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/P1000575.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/P2133110.JPG" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/P2133110.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/P2133112.JPG" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/P2133112.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/P2133113.JPG" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/P2133113.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/P2133114.JPG" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/P2133114.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/P2133115.JPG" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/P2133115.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/P2133117.JPG" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/P2133117.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/P2133118.JPG" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/P2133118.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/P8020321.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/P8020321.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/_MG_3635.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/_MG_3635.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/_MG_3636.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/_MG_3636.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/_MG_3637.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/_MG_3637.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/_MG_3644.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/_MG_3644.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/_MG_3651.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/_MG_3651.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/_MG_3654.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/_MG_3654.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/_MG_3656.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/_MG_3656.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/_MG_3657.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/_MG_3657.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/_MG_3663.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/_MG_3663.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/_MG_3668.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/_MG_3668.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/m-en-e-huizen/index.php" afterPath="$PROJECT_DIR$/voscon.nl/projecten/m-en-e-huizen/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/montage-en-transport-frame.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/montage-en-transport-frame.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/montage-en-transport-frame/P8143566.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/montage-en-transport-frame/P8143566.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/montage-en-transport-frame/P8143568.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/montage-en-transport-frame/P8143568.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/montage-en-transport-frame/P8143569.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/montage-en-transport-frame/P8143569.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/montage-en-transport-frame/P8143570.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/montage-en-transport-frame/P8143570.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/montage-en-transport-frame/P8143571.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/montage-en-transport-frame/P8143571.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/montage-en-transport-frame/P8143573.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/montage-en-transport-frame/P8143573.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/montage-en-transport-frame/index.php" afterPath="$PROJECT_DIR$/voscon.nl/projecten/montage-en-transport-frame/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/toegangsluik.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/toegangsluik.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/toegangsluik/1.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/toegangsluik/1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/toegangsluik/2.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/toegangsluik/2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/toegangsluik/3.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/toegangsluik/3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/toegangsluik/4.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/toegangsluik/4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/toegangsluik/index.php" afterPath="$PROJECT_DIR$/voscon.nl/projecten/toegangsluik/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/transportsystemen.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/transportsystemen.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/transportsystemen/P2133098.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/transportsystemen/P2133098.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/transportsystemen/P2133099.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/transportsystemen/P2133099.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/transportsystemen/P2133100.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/transportsystemen/P2133100.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/transportsystemen/P2133101.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/transportsystemen/P2133101.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/transportsystemen/P2133102.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/transportsystemen/P2133102.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/transportsystemen/P2133103.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/transportsystemen/P2133103.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/transportsystemen/P2133104.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/transportsystemen/P2133104.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/transportsystemen/P2133105.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/transportsystemen/P2133105.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/transportsystemen/P2133106.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/transportsystemen/P2133106.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/transportsystemen/P2133107.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/transportsystemen/P2133107.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/transportsystemen/P2133108.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/transportsystemen/P2133108.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/transportsystemen/index.php" afterPath="$PROJECT_DIR$/voscon.nl/projecten/transportsystemen/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/vliegtuigromp.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/vliegtuigromp.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/vliegtuigromp/PC033081.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/vliegtuigromp/PC033081.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/vliegtuigromp/PC033082.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/vliegtuigromp/PC033082.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/vliegtuigromp/PC033083.jpg" afterPath="$PROJECT_DIR$/voscon.nl/projecten/vliegtuigromp/PC033083.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projecten/vliegtuigromp/index.php" afterPath="$PROJECT_DIR$/voscon.nl/projecten/vliegtuigromp/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/service/index.php" afterPath="$PROJECT_DIR$/euromet.nl/service/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vacatures/index.php" afterPath="$PROJECT_DIR$/voscon.nl/vacatures/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/voscon.nl/index.php" afterPath="$PROJECT_DIR$/voscon.nl/index.php" />
     </list>
     <ignored path="voscon.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -330,26 +65,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/voscon.nl/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.791666">
-              <caret line="350" column="30" selection-start-line="350" selection-start-column="30" selection-end-line="350" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/euromet.nl/projecten/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-23.75">
               <caret line="38" column="110" selection-start-line="38" selection-start-column="110" selection-end-line="38" selection-end-column="110" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#a#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#a#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -359,6 +80,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-10.0">
               <caret line="16" column="84" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/voscon.nl/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.35990712">
+              <caret line="31" column="78" selection-start-line="31" selection-start-column="78" selection-end-line="31" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -374,7 +105,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/euromet.nl/projecten/filtertoren/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
               <folding />
             </state>
@@ -384,7 +115,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/euromet.nl/projecten/spiltrap/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
               <folding />
             </state>
@@ -394,17 +125,17 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/euromet.nl/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.333334">
+            <state vertical-scroll-proportion="0.0">
               <caret line="181" column="0" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/euromet.nl/includes/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.03482972">
+            <state vertical-scroll-proportion="-1.875">
               <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
@@ -414,7 +145,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/euromet.nl/projecten/ponton/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
               <folding />
             </state>
@@ -424,7 +155,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/euromet.nl/montage/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="11" selection-end-column="72" />
               <folding />
             </state>
@@ -478,6 +209,7 @@
         <option value="$PROJECT_DIR$/euromet.nl/projecten/filterkast/index.php" />
         <option value="$PROJECT_DIR$/euromet.nl/css/main.css" />
         <option value="$PROJECT_DIR$/euromet.nl/includes/header.php" />
+        <option value="$PROJECT_DIR$/voscon.nl/index.php" />
       </list>
     </option>
   </component>
@@ -528,9 +260,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -655,6 +384,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1082,11 +814,12 @@
       <workItem from="1395168352233" duration="11782000" />
       <workItem from="1447503145872" duration="24000" />
       <workItem from="1447503185235" duration="5624000" />
+      <workItem from="1447513516598" duration="32000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46409000" />
+    <option name="totallyTimeSpent" value="46441000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1112,18 +845,17 @@
     <frame x="393" y="23" width="2167" height="1413" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18043378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32342008" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18043378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1137,6 +869,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1297,7 +1030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1305,7 +1037,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1313,7 +1044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1321,7 +1051,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.625">
           <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1329,7 +1058,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.25">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1337,9 +1065,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.0">
           <caret line="92" column="36" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#3;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1347,7 +1072,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-18.125">
           <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1355,15 +1079,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/voscon.nl/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.125">
-          <caret line="46" column="38" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1371,7 +1086,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.625">
           <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1379,7 +1093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.375">
           <caret line="15" column="91" selection-start-line="15" selection-start-column="91" selection-end-line="15" selection-end-column="91" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1387,7 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.625">
           <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1395,7 +1107,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.125">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1403,7 +1114,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.125">
           <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1411,7 +1121,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-18.75">
           <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1419,7 +1128,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.125">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1427,9 +1135,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-23.75">
           <caret line="38" column="57" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1437,21 +1142,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-16.875">
           <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/euromet.nl/projecten/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.75">
-          <caret line="38" column="110" selection-start-line="38" selection-start-column="110" selection-end-line="38" selection-end-column="110" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1462,7 +1152,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/voscon.nl/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.791666">
+        <state vertical-scroll-proportion="0.0">
           <caret line="350" column="30" selection-start-line="350" selection-start-column="30" selection-end-line="350" selection-end-column="30" />
           <folding />
         </state>
@@ -1470,7 +1160,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/euromet.nl/montage/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="11" selection-end-column="72" />
           <folding />
         </state>
@@ -1478,7 +1168,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/euromet.nl/projecten/spiltrap/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding />
         </state>
@@ -1486,7 +1176,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/euromet.nl/projecten/ponton/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding />
         </state>
@@ -1494,8 +1184,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/euromet.nl/projecten/filtertoren/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euromet.nl/img/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euromet.nl/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="181" column="0" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euromet.nl/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euromet.nl/projecten/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.75">
+          <caret line="38" column="110" selection-start-line="38" selection-start-column="110" selection-end-line="38" selection-end-column="110" />
           <folding />
         </state>
       </provider>
@@ -1508,23 +1227,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/euromet.nl/img/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/euromet.nl/css/main.css">
+    <entry file="file://$PROJECT_DIR$/voscon.nl/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.333334">
-          <caret line="181" column="0" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/euromet.nl/includes/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03482972">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.35990712">
+          <caret line="31" column="78" selection-start-line="31" selection-start-column="78" selection-end-line="31" selection-end-column="78" />
           <folding />
         </state>
       </provider>
