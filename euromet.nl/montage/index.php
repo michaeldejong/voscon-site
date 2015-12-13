@@ -5,7 +5,7 @@
 					<a class="nav" href="/montage/#montage">Montage</a>
 				</div>
 				<div id="items">
-                    <div class="item rounded inverted background-11" style="min-height: 850px;">
+                    <div class="item rounded background-11" style="min-height: 860px;">
                         <div class="header">
                             <a name="montage"></a>
                             <h2>Montage</h2>

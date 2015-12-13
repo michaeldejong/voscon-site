@@ -5,7 +5,7 @@
 					<a class="nav" href="/service/#service">Service</a>
 				</div>
 				<div id="items">
-					<div class="item background-12 rounded-top" style="min-height: 720px;">
+					<div class="item background-12 rounded-top" style="min-height: 750px;">
 						<div class="header">
 							<a name="service"></a>
 							<h2>Service</h2>

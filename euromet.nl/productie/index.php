@@ -5,7 +5,7 @@
 					<a class="nav" href="/productie/#productie">Productie</a>
 				</div>
 				<div id="items">
-					<div class="item background-10 rounded-top" style="padding-bottom: 660px;">
+					<div class="item background-10 rounded-top" style="padding-bottom: 500px;">
 						<div class="header">
 							<a name="productie"></a>
 							<h2>Productie</h2>

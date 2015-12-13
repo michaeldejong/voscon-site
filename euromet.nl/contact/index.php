@@ -30,7 +30,7 @@
 				<div class="alert alert-success"><?php echo $success; ?></div>
 <?php } ?>
 				<div id="items">
-					<div class="item rounded-top background-4" style="min-height: 880px;">
+					<div class="item rounded-top background-4" style="min-height: 920px;">
 						<div class="header">
 							<a name="contact-opnemen"></a>
 							<h2>Contact opnemen</h2>
@@ -39,18 +39,25 @@
 						<div class="content columns-1-0">
 							<table class="table table-condensed">
 								<thead>
-									<tr><td>Euromet</td></tr>
+									<tr><td colspan="2">Euromet</td></tr>
 								</thead>
 								<tbody>
-                                    <tr><td>Bezoek adres: Energieweg 21f</td></tr>
-                                    <tr><td>3133 EB, Vlaardingen</td></tr>
-                                    <tr><td></td></tr>
-                                    <tr><td>Post adres: Energieweg 25</td></tr>
-                                    <tr><td>3133 EC, Vlaardingen</td></tr>
-                                    <tr><td></td></tr>
-									<tr><td>Fax: 010-4451118</td></tr>
-									<tr><td>Tel: 010-4451111</td></tr>
-									<tr><td>E-mail: info@euromet.nl</td></tr>
+                                    <tr>
+                                        <td><strong>Bezoek adres:</strong></td>
+                                        <td><strong>Post adres:</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Energieweg 21F</td>
+                                        <td>Energieweg 25</td>
+                                    </tr>
+                                    <tr>
+                                        <td>3133 EB, Vlaardingen</td>
+                                        <td>3133 EC, Vlaardingen</td>
+                                    </tr>
+                                    <tr><td colspan="2"></td></tr>
+									<tr><td colspan="2">Fax: 010-4451118</td></tr>
+									<tr><td colspan="2">Tel: 010-4451111</td></tr>
+									<tr><td colspan="2">E-mail: info@euromet.nl</td></tr>
 								</tbody>
 							</table>
 						</div>
