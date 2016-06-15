@@ -1,3 +1,4 @@
+<?php require("../includes/translation.php"); ?>
 <?php require("../includes/header.php"); ?>
 <?php require("../includes/menu.php"); ?>
 			<div class="container">

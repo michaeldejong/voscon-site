@@ -22,9 +22,9 @@
 					</div>
 					<div class="tall">
 						<ul>
-							<li><a class="nav" href="/certificatie/#">Certificatie</a></li>
-                            <li><a class="nav" href="/certificatie/#iso9001">ISO-9001</a></li>
-                            <li><a class="nav" href="/certificatie/#vca">VCA*</a></li>
+							<li><a class="nav" href="/certification/#">Certificatie</a></li>
+                            <li><a class="nav" href="/certification/#iso9001">ISO-9001</a></li>
+                            <li><a class="nav" href="/certification/#vca">VCA*</a></li>
 						</ul>
 					</div>
 					<div class="short">

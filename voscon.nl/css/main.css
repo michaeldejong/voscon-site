@@ -34,6 +34,10 @@ a {
 	font-family: 'Roboto-Regular', verdana, sans-sherif;
 }
 
+p {
+    margin: 0px;
+}
+
 h2 {
 	font-family: 'YanoneKaffeesatz-Regular';
 	font-size: 32px;
