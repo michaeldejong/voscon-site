@@ -3,8 +3,8 @@
 <?php require("../includes/menu.php"); ?>
 			<div class="container">
                 <div id="sub-menu-bar">
-                    <a class="nav" href="/certificatie/#iso9001"></a>
-                    <a class="nav" href="/certificatie/#vca">VCA*</a>
+                    <a class="nav" href="/certification/#iso9001">ISO-9001</a>
+                    <a class="nav" href="/certification/#vca">VCA*</a>
                 </div>
                 <div id="items">
                     <div class="item background-15 rounded-top" style="min-height: 750px; padding-bottom: 150px;">

@@ -1,0 +1,33 @@
+
+// Dimensions
+$smaller: 3px;
+$small: $smaller * 2; // 6
+$medium: $smaller * 3; // 9
+$large: $medium * 2; // 18
+$larger: $medium * 3; // 27
+$largest: $medium * 4; // 36
+
+
+// Font-sizes
+$font-size-tiny: 11px;
+$font-size-smallest: 12px;
+$font-size-smaller: 13px;
+$font-size-small: 14px;
+$font-size-medium: 15px;
+$font-size-large: 16px;
+$font-size-larger: 18px;
+$font-size-largest: 21px;
+$font-size-huge: 24px;
+$font-size-humongous: 32px;
+
+
+// Colors
+$white: #fff;
+$shadow: 0px $large $large rgba(128, 128, 128, 0.08);
+$text: #333;
+
+
+// Border radius'
+$border-radius-tiny: 1px;
+$border-radius-small: 2px;
+$border-radius-medium: 3px;

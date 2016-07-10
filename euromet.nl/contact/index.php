@@ -31,9 +31,9 @@
 <?php require("../includes/menu.php"); ?>
 			<div class="container">
 				<div id="sub-menu-bar">
-                    <a class="nav" href="/montage/#contact-opnemen"><?php if (show('nl')) { ?>Contact opnemen<?php } elseif (show('en')) { ?>Contact us<?php } ?></a>
-                    <a class="nav" href="/montage/#contactformulier"><?php if (show('nl')) { ?>Contactformulier<?php } elseif (show('en')) { ?>Contact form<?php } ?></a>
-                    <a class="nav" href="/montage/#routebeschrijving"><?php if (show('nl')) { ?>Routebeschrijving<?php } elseif (show('en')) { ?>Route<?php } ?></a>
+                    <a class="nav" href="/contact/#contact-us"><?php if (show('nl')) { ?>Contact opnemen<?php } elseif (show('en')) { ?>Contact us<?php } ?></a>
+                    <a class="nav" href="/contact/#contactform"><?php if (show('nl')) { ?>Contactformulier<?php } elseif (show('en')) { ?>Contact form<?php } ?></a>
+                    <a class="nav" href="/contact/#directions"><?php if (show('nl')) { ?>Routebeschrijving<?php } elseif (show('en')) { ?>Route<?php } ?></a>
 				</div>
 <?php if (isset($error)) { ?>
 				<div class="alert alert-danger"><?php echo $error; ?></div>
@@ -43,7 +43,7 @@
 				<div id="items">
 					<div class="item rounded-top background-4" style="min-height: 920px;">
 						<div class="header">
-							<a name="contact-opnemen"></a>
+							<a name="contact-us"></a>
 							<h2><?php if (show('nl')) { ?>Contact opnemen<?php } elseif (show('en')) { ?>Contact us<?php } ?></h2>
                             <a class="nav" href="#"><?php if (show('nl')) { ?>Terug naar boven<?php } elseif (show('en')) { ?>Back to top<?php } ?></a>
 						</div>
@@ -99,7 +99,7 @@
 					</div>
 					<div class="item">
 						<div class="header">
-							<a name="contactformulier"></a>
+							<a name="contactform"></a>
 							<h2><?php if (show('nl')) { ?>Contactformulier<?php } elseif (show('en')) { ?>Contact form<?php } ?></h2>
                             <a class="nav" href="#"><?php if (show('nl')) { ?>Terug naar boven<?php } elseif (show('en')) { ?>Back to top<?php } ?></a>
 						</div>
@@ -123,14 +123,15 @@
 										<textarea class="form-control" name="body" id="body"></textarea>
 									</div>
 								</div>
+                                <input type="hidden" name="_token" value="{{ csrf_token() }}">
 								<button type="submit" class="btn" name="submit">Versturen</button>
 							</form>
 						</div>
 					</div>
 					<div class="item">
 						<div class="header">
-							<a name="routebeschrijving"></a>
-							<h2><?php if (show('nl')) { ?>Routebeschrijving<?php } elseif (show('en')) { ?>Route<?php } ?></h2>
+							<a name="directions"></a>
+							<h2><?php if (show('nl')) { ?>Routebeschrijving<?php } elseif (show('en')) { ?>Directions<?php } ?></h2>
                             <a class="nav" href="#"><?php if (show('nl')) { ?>Terug naar boven<?php } elseif (show('en')) { ?>Back to top<?php } ?></a>
 						</div>
 						<div class="content">
