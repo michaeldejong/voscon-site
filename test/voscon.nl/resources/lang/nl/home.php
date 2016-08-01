@@ -2,17 +2,19 @@
 
 return [
 
-    'paragraph_1'         => 'Voscon BV is an allround construction and service company, established in 1984 in
-    						  Vlaardingen, which has specialized in constructing structures, machines, piping,
-    						  assembly, maintenance, and bespoke service solutions. In addition to this, Voscon BV has
-    						  aqcuired its own machine park in 2010 which is specialized in processing metal products.
-    						  Voscon BV predominantly works for transloading companies, industry, refinaries,
-    						  sewage pumping stations, inland navigation, port companies, food industry, and edible
-    						  oils refining factories.',
-    'paragraph_2'         => 'We offer the option to our clients, to in-source all their construction and assembly
-    						  desires. From design to deliver or assembly (even on location), you\'ll have one
-    						  liason .',
-    'paragraph_3'         => 'Voscon BV stands for quality, service, and flexibility of bespoke work in a personal
-    						  manner, focussed on the individual client with their specific wishes.'
+    'paragraph_1'         => 'Voscon BV is een sinds 1984 in Vlaardingen gevestigd allround constructie- en
+                              servicebedrijf, dat zich heeft gespecialiseerd in constructiewerken, apparatenbouw,
+                              pijpleidingen, montage, onderhoud en maatgerichte service oplossingen. Tevens heeft
+                              Voscon BV sinds 2010 een geheel eigen machinepark welke is gespecialiseerd in het
+                              bewerken van metaalproducten. Voscon BV is vooral actief in overslagbedrijven,
+                              industrie, raffinaderijen, rioolgemalen, binnenvaart, havenbedrijven, voedingsmiddelen
+                              industrie en eetbare oli&euml;n raffinage fabrieken.',
+
+	'paragraph_2'         => 'Voscon BV biedt de mogelijkheid aan haar afnemers om hun volledige wens over te nemen
+                              en in eigen beheer uit te voeren. Vanaf ontwerp tot afname of montage (eventueel op
+                              locatie) heeft u &eacute;&eacute;n aanspreekpunt.',
+
+	'paragraph_3'         => 'Voscon BV staat voor kwaliteit, service en flexibiliteit van maatwerk op een
+	                          persoonlijke manier, gericht op de individuele klant met haar specifieke wensen.'
 
 ];

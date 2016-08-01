@@ -2,15 +2,16 @@
 
 return [
 
-    'paragraph_1'         => 'Euromet BV has its own engineering department in-house. Our engineers conceive, develop,
-							  draw, and calculate both simple and complex solutions. We can support you in all phases of
-							  development: from thinking along about the process, also known as concept-engineering, to
-							  shaping it. With building arrangements, and layouts, from complete production lines to
-							  details. Using SolidWorks\' 3D-software we are able to give shape to your complete project,
-							  and build and deliver it with precision and an eye for detail. In addition, our approach
-							  ensures that you\'ll have a good overview no matter how complex the project is. At the stage
-							  of detail engineering, we do not limit ourselves to creating the optimal conditions for
-							  construction or reconstruction. Euromet BV even accounts for future maintenance.',
-    'impression'          => 'Watch an impression of our 3D-design process'
+    'paragraph_1'         => 'Voscon BV heeft zijn eigen engineering afdeling in huis. Onze  engineers bedenken,
+                              ontwikkelen, tekenen en berekenen eenvoudige en complexe oplossingen. Wij kunnen U
+                              ondersteunen in alle fases: van meedenken over het proces, ook wel concept-engineering,
+                              tot het vormgeven ervan. Bij het maken van opstellingen, de lay-out, voor complete
+                              productielijnen tot detailwerk. Met gebruikmaking van 3D-software van SolidWorks, zijn we
+                              in staat uw project compleet vorm te geven en de precieze maatvoering en detaillering aan
+                              te leveren. Bovendien waarborgt onze aanpak dat u goed het overzicht weet te houden, hoe
+                              complex een project ook is. In het stadium van de detail engineering beperken we ons niet
+                              alleen tot het cre&euml;ren van de optimale condities voor de bouw of verbouw. Voscon BV
+                              houdt ook al rekening met toekomstig onderhoud.',
+    'impression'          => 'Bekijk een impressie van ons 3D-ontwerp process'
 
 ];

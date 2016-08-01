@@ -2,17 +2,17 @@
 
 return [
 
-    'visiting_address'    => 'Visiting address',
-    'postal_address'      => 'Postal address',
-    'email'               => 'Email address',
-    'phone'               => 'Phone number',
-    'message'             => 'Your message',
-    'submit'              => 'Send',
-    
-    'phone_number'        => '+3110-4451111',
-    'fax_number'          => '+3110-4451118',
+    'visiting_address'    => 'Bezoek adres',
+    'postal_address'      => 'Post adres',
+    'email'               => 'E-mail adres',
+    'phone'               => 'Telefoon nummer',
+    'message'             => 'Uw bericht',
+    'submit'              => 'Versturen',
 
-    'success'             => 'Your message has been sent. We\'ll contact you as soon as possible!',
-    'error'               => 'Your message could not be sent. For questions please contact us by phone or email!'
+    'phone_number'        => '010-4451111',
+    'fax_number'          => '010-4451118',
+
+    'success'             => 'Het bericht is verstuurd. We nemen zo snel mogelijk contact met u op!',
+    'error'               => 'Het bericht kon helaas niet worden verstuurd. Neem voor vragen alstublieft contact op met ons per telefoon of e-mail.'
 
 ];

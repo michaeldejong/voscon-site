@@ -2,13 +2,14 @@
 
 return [
 
-    'paragraph_1'         => 'Our products are assembled and installed by our own installers. The allround 
-                              construction fitters, qualified welders, and installers are all licensed to operate 
-                              fork-lifts, cherry pickers, and have all obtained safety certificates such as VCA 
-                              (Safety, Health, and Environment Checklist for Contractors)',
+    'paragraph_1'         => 'Producten worden door onze eigen montage afdeling gemonteerd. De allround
+                              constructie-bankwerkers, gekwalificeerde lassers en monteurs zijn in het bezit van
+                              een heftruck-, hoogwerker-, veilig hijsen en VCA veiligheids-certificaat. Onze
+                              werknemers beschikken over moderne servicewagens voorzien van alle benodigde equipment.',
 
-    'paragraph_2'         => 'We are VCA* certified and we focus on continuous improvement of VGM. reducing injuries, 
-                              incidents, material, and environmental damage, while providing a comfortable and above 
-                              all safe working environment.'
+    'paragraph_2'         => 'Wij zijn VCA* gecertificeerd en er wordt een beleid gevoerd gericht op de continue
+                              verbetering van VGM (Veiligheid, Gezondheid, en Milieu). Dat wil zeggen dat we focussen
+                              op het reduceren van ongevallen, incidenten, materiële- en milieuschade en het
+                              bevorderen van een voor een ieder prettige en bovenal veilige werkomgeving.'
 
 ];
